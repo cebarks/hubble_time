@@ -48,6 +48,8 @@ group :development, :test do
   gem 'simplecov'
   gem 'launchy'
   gem 'shoulda-matchers'
+  gem 'vcr'
+  gem 'webmock'
 end
 
 group :development do
