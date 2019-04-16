@@ -1,0 +1,12 @@
+<div id="images">
+  <% @images.each do |image| %>
+    <div class="image" id="image-<%= image.id %>">
+      <div class="picture"><img src="<%= image.image_files.first[:file_url] %>" alt="<%= image.name %>"></div>
+      <div class="title"><%= image.name %></div>
+      <div class="description"><%= "#{image.description}".html_safe %></div>
+      <div class="credits"><%= image.credits.html_safe %></d
+        iv>
+      <%= button_to "Favorite", nil, class: "favorite-button" %>
+    </div>
+  <% end %>
+</div>
