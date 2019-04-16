@@ -19,7 +19,7 @@ http_interactions:
       message: OK
     headers:
       Date:
-      - Tue, 16 Apr 2019 22:14:24 GMT
+      - Tue, 16 Apr 2019 22:36:30 GMT
       Server:
       - Apache/2.2.15
       X-Frame-Options:
@@ -40,13 +40,13 @@ http_interactions:
       - max-age=0, private, must-revalidate
       - max-age=31536000
       X-Request-Id:
-      - e3fa1908-7eec-4e9b-a2a4-9fdca483686b
+      - fc5c107e-2d12-4cd3-9a85-f1426c62a880
       X-Runtime:
-      - '0.004321'
+      - '0.005350'
       Status:
       - 200 OK
       Expires:
-      - Wed, 15 Apr 2020 22:14:24 GMT
+      - Wed, 15 Apr 2020 22:36:30 GMT
       Transfer-Encoding:
       - chunked
       Content-Type:
@@ -77,7 +77,7 @@ http_interactions:
         Image of Uranus and Neptune","news_name":"b","collection":"news","mission":"hubble"},{"id":4322,"name":"Uranus","news_name":"c","collection":"news","mission":"hubble"},{"id":4323,"name":"Neptune","news_name":"d","collection":"news","mission":"hubble"},{"id":4317,"name":"Bedin
         1 in NGC 6752","news_name":"a","collection":"news","mission":"hubble"}]'
     http_version: 
-  recorded_at: Tue, 16 Apr 2019 22:14:24 GMT
+  recorded_at: Tue, 16 Apr 2019 22:36:30 GMT
 - request:
     method: get
     uri: http://hubblesite.org/api/v3/image/4381
@@ -97,7 +97,7 @@ http_interactions:
       message: OK
     headers:
       Date:
-      - Tue, 16 Apr 2019 22:14:24 GMT
+      - Tue, 16 Apr 2019 22:36:30 GMT
       Server:
       - Apache/2.2.15
       X-Frame-Options:
@@ -116,13 +116,13 @@ http_interactions:
       - max-age=0, private, must-revalidate
       - max-age=31536000
       X-Request-Id:
-      - dd023ec2-a369-42fe-bb50-6cc61c4e5b7c
+      - 27bfd588-603e-4878-8062-34fcce70484d
       X-Runtime:
-      - '0.004637'
+      - '0.003645'
       Status:
       - 200 OK
       Expires:
-      - Wed, 15 Apr 2020 22:14:24 GMT
+      - Wed, 15 Apr 2020 22:36:30 GMT
       Transfer-Encoding:
       - chunked
       Content-Type:
@@ -138,7 +138,7 @@ http_interactions:
         \u003ca href=\"http://www.spacetelescope.org/\"\u003eESA\u003c/a\u003e, and
         A. Feild (\u003ca href=\"http://www.stsci.edu/\"\u003eSTScI\u003c/a\u003e)","news_name":"a","mission":"hubble","collection":"news","image_files":[{"file_url":"https://media.stsci.edu/uploads/image_file/image_attachment/31325/STSCI-H-p1924a-p433x250.png","file_size":196906,"width":433,"height":250},{"file_url":"https://media.stsci.edu/uploads/image_file/image_attachment/31326/STSCI-H-p1924a-z1000x388.png","file_size":891502,"width":1000,"height":388},{"file_url":"https://media.stsci.edu/uploads/image_file/image_attachment/31324/STSCI-H-p1924a-k1340x520.png","file_size":1453728,"width":1340,"height":520},{"file_url":"https://media.stsci.edu/uploads/image_file/image_attachment/31328/STSCI-H-p1924a-f4000x1552.png","file_size":2957519,"width":2000,"height":776},{"file_url":"https://media.stsci.edu/uploads/image_file/image_attachment/31327/STSCI-H-p1924a-f4000x1552.jpg","file_size":4215195,"width":4000,"height":1552}]}'
     http_version: 
-  recorded_at: Tue, 16 Apr 2019 22:14:24 GMT
+  recorded_at: Tue, 16 Apr 2019 22:36:30 GMT
 - request:
     method: get
     uri: http://hubblesite.org/api/v3/image/4379
@@ -158,7 +158,7 @@ http_interactions:
       message: OK
     headers:
       Date:
-      - Tue, 16 Apr 2019 22:14:24 GMT
+      - Tue, 16 Apr 2019 22:36:30 GMT
       Server:
       - Apache/2.2.15
       X-Frame-Options:
@@ -177,13 +177,13 @@ http_interactions:
       - max-age=0, private, must-revalidate
       - max-age=31536000
       X-Request-Id:
-      - a7560fd0-5604-49a5-aa68-b908209d747e
+      - d7873727-9c68-4c9c-b645-dcd8badb1127
       X-Runtime:
-      - '0.004431'
+      - '0.004199'
       Status:
       - 200 OK
       Expires:
-      - Wed, 15 Apr 2020 22:14:24 GMT
+      - Wed, 15 Apr 2020 22:36:30 GMT
       Transfer-Encoding:
       - chunked
       Content-Type:
@@ -193,7 +193,7 @@ http_interactions:
       string: !binary |-
         eyJuYW1lIjoiQXN0ZXJvaWQgKDY0NzgpIEdhdWx0IiwiZGVzY3JpcHRpb24iOiJcdTAwM2NzdHJvbmdcdTAwM2VIdWJibGUgV2l0bmVzc2VzIEFzdGVyb2lkIENvbWluZyBVbmdsdWVkXHUwMDNjL3N0cm9uZ1x1MDAzZVxyXG5cclxuVGhpcyBIdWJibGUgU3BhY2UgVGVsZXNjb3BlIGltYWdlIHJldmVhbHMgdGhlIGdyYWR1YWwgc2VsZi1kZXN0cnVjdGlvbiBvZiBhbiBhc3Rlcm9pZCwgd2hvc2UgZWplY3RlZCBkdXN0eSBtYXRlcmlhbCBoYXMgZm9ybWVkIHR3byBsb25nLCB0aGluLCBjb21ldC1saWtlIHRhaWxzLiBUaGUgbG9uZ2VyIHRhaWwgc3RyZXRjaGVzIG1vcmUgdGhhbiA1MDAsMDAwIG1pbGVzICg4MDAsMDAwIGtpbG9tZXRlcnMpIGFuZCBpcyByb3VnaGx5IDMsMDAwIG1pbGVzICg0LDgwMCBraWxvbWV0ZXJzKSB3aWRlLiBUaGUgc2hvcnRlciB0YWlsIGlzIGFib3V0IGEgcXVhcnRlciBhcyBsb25nLiBUaGUgc3RyZWFtZXJzIHdpbGwgZXZlbnR1YWxseSBkaXNwZXJzZSBpbnRvIHNwYWNlLlxyXG5cclxuVGhlc2UgdW51c3VhbCwgdHJhbnNpZW50IGZlYXR1cmVzIGFyZSBldmlkZW5jZSB0aGF0IHRoZSBhc3Rlcm9pZCwga25vd24gYXMgKDY0NzgpIEdhdWx0LCBpcyBiZWdpbm5pbmcgdG8gY29tZSBhcGFydCBieSBnZW50bHkgcHVmZmluZyBvZmYgbWF0ZXJpYWwgaW4gdHdvIHNlcGFyYXRlIGVwaXNvZGVzLiBIdWJibGUncyBzaGFycCB2aWV3IHJldmVhbHMgdGhhdCB0aGUgdGFpbHMgYXJlIG5hcnJvdyBzdHJlYW1lcnMsIHN1Z2dlc3RpbmcgdGhhdCB0aGUgZHVzdCB3YXMgcmVsZWFzZWQgaW4gc2hvcnQgYnVyc3RzLCBsYXN0aW5nIGFueXdoZXJlIGZyb20gYSBmZXcgaG91cnMgdG8gYSBmZXcgZGF5cy5cclxuXHJcblRoZSBmaXJzdCB0YWlsIHdhcyBzcG90dGVkIG9uIEphbi4gNSwgMjAxOTsgdGhlIHNlY29uZCBpbiBtaWQtSmFudWFyeS4gQW4gYW5hbHlzaXMgb2YgYm90aCB0YWlscyBzdWdnZXN0cyB0aGUgdHdvIGR1c3QgcmVsZWFzZXMgb2NjdXJyZWQgYXJvdW5kIE9jdC4gMjggYW5kIERlYy4gMzAsIDIwMTguXHJcblxyXG5Bc3Ryb25vbWVycyB0aGluayB0aGUgdGlueSBhc3Rlcm9pZCwgb25seSAyLjUgbWlsZXMgd2lkZSwgaXMgZGlzaW50ZWdyYXRpbmcgZHVlIHRvIHRoZSBsb25nLXRlcm0gc3VidGxlIGVmZmVjdHMgb2Ygc3VubGlnaHQsIHdoaWNoIGNhbiBzbG93bHkgc3BlZWQgdXAgaXRzIHNwaW4gdW50aWwgaXQgYmVnaW5zIHRvIHNoZWQgbWF0ZXJpYWwuIEluIGZhY3QsIHRoZSBzZWxmLWRlc3RydWN0aW9uIG1heSBoYXZlIGJlZW4gc3RhcnRlZCBtb3JlIHRoYW4gMTAwIG1pbGxpb24geWVhcnMgYWdvLiBQcmVzc3VyZSBmcm9tIHN1bmxpZ2h0IHZlcnkgc2xvd2x5IGJlZ2FuIHNwaW5uaW5nIHVwIHRoZSBkaW1pbnV0aXZlIGFzdGVyb2lkIGF0IGFuIGVzdGltYXRlZCByYXRlIG9mIDEgc2Vjb25kIGV2ZXJ5IDEwLDAwMCB5ZWFycy5cclxuXHJcblRoZSBhc3Rlcm9pZCBpcyBsb2NhdGVkIDIxNCBtaWxsaW9uIG1pbGVzIGZyb20gdGhlIFN1biwgYmV0d2VlbiB0aGUgb3JiaXRzIG9mIE1hcnMgYW5kIEp1cGl0ZXIuXHJcblxyXG5cclxuIiwiY3JlZGl0cyI6Ilx1MDAzY2EgaHJlZj1cImh0dHA6Ly93d3cubmFzYS5nb3YvXCJcdTAwM2VOQVNBXHUwMDNjL2FcdTAwM2UsIFx1MDAzY2EgaHJlZj1cImh0dHA6Ly93d3cuc3BhY2V0ZWxlc2NvcGUub3JnL1wiXHUwMDNlRVNBXHUwMDNjL2FcdTAwM2UsIEsuIE1lZWNoIGFuZCBKLiBLbGV5bmEgKFVuaXZlcnNpdHkgb2YgSGF3YWlpKSzCoGFuZCBPLiBIYWluYXV0IChFdXJvcGVhbiBTb3V0aGVybiBPYnNlcnZhdG9yeSkiLCJuZXdzX25hbWUiOiJhIiwibWlzc2lvbiI6Imh1YmJsZSIsImNvbGxlY3Rpb24iOiJuZXdzIiwiaW1hZ2VfZmlsZXMiOlt7ImZpbGVfdXJsIjoiaHR0cHM6Ly9tZWRpYS5zdHNjaS5lZHUvdXBsb2Fkcy9pbWFnZV9maWxlL2ltYWdlX2F0dGFjaG1lbnQvMzEzMTkvU1RTQ0ktSC1wMTkyMmEtei0xMDAweDU4Mi5wbmciLCJmaWxlX3NpemUiOjg4MjkwNSwid2lkdGgiOjEwMDAsImhlaWdodCI6NTgyfSx7ImZpbGVfdXJsIjoiaHR0cHM6Ly9tZWRpYS5zdHNjaS5lZHUvdXBsb2Fkcy9pbWFnZV9maWxlL2ltYWdlX2F0dGFjaG1lbnQvMzEzMTgvU1RTQ0ktSC1wMTkyMmEtbS0yMDAweDExNjQucG5nIiwiZmlsZV9zaXplIjo0NTIxODAyLCJ3aWR0aCI6MjAwMCwiaGVpZ2h0IjoxMTY0fSx7ImZpbGVfdXJsIjoiaHR0cHM6Ly9tZWRpYS5zdHNjaS5lZHUvdXBsb2Fkcy9pbWFnZV9maWxlL2ltYWdlX2F0dGFjaG1lbnQvMzEzMTcvU1RTQ0ktSC1wMTkyMmEtZi01MTkweDMwMjMucG5nIiwiZmlsZV9zaXplIjozNDg3MjAxNywid2lkdGgiOjUxOTAsImhlaWdodCI6MzAyM30seyJmaWxlX3VybCI6Imh0dHBzOi8vbWVkaWEuc3RzY2kuZWR1L3VwbG9hZHMvaW1hZ2VfZmlsZS9pbWFnZV9hdHRhY2htZW50LzMxMzE2L1NUU0NJLUgtcDE5MjJhLWYtNTE5MHgzMDIzLnRpZiIsImZpbGVfc2l6ZSI6MzgzMDY4MzIsIndpZHRoIjo1MTkwLCJoZWlnaHQiOjMwMjN9XX0=
     http_version: 
-  recorded_at: Tue, 16 Apr 2019 22:14:24 GMT
+  recorded_at: Tue, 16 Apr 2019 22:36:30 GMT
 - request:
     method: get
     uri: http://hubblesite.org/api/v3/image/4380
@@ -213,7 +213,7 @@ http_interactions:
       message: OK
     headers:
       Date:
-      - Tue, 16 Apr 2019 22:14:24 GMT
+      - Tue, 16 Apr 2019 22:36:30 GMT
       Server:
       - Apache/2.2.15
       X-Frame-Options:
@@ -232,13 +232,13 @@ http_interactions:
       - max-age=0, private, must-revalidate
       - max-age=31536000
       X-Request-Id:
-      - c6c7a80c-0044-4784-af68-3ac4ca487e8a
+      - 29a6f98a-4040-4b93-a9fe-fdd713e10c29
       X-Runtime:
-      - '0.004219'
+      - '0.005713'
       Status:
       - 200 OK
       Expires:
-      - Wed, 15 Apr 2020 22:14:24 GMT
+      - Wed, 15 Apr 2020 22:36:30 GMT
       Transfer-Encoding:
       - chunked
       Content-Type:
@@ -248,7 +248,7 @@ http_interactions:
       string: !binary |-
         eyJuYW1lIjoiQ29tcGFzcyBJbWFnZSBmb3IgQXN0ZXJvaWQgKDY0NzgpIEdhdWx0IiwiY3JlZGl0cyI6Ilx1MDAzY2EgaHJlZj1cImh0dHA6Ly93d3cubmFzYS5nb3YvXCJcdTAwM2VOQVNBXHUwMDNjL2FcdTAwM2UsIFx1MDAzY2EgaHJlZj1cImh0dHA6Ly93d3cuc3BhY2V0ZWxlc2NvcGUub3JnL1wiXHUwMDNlRVNBXHUwMDNjL2FcdTAwM2UsIEsuIE1lZWNoIGFuZCBKLiBLbGV5bmEgKFVuaXZlcnNpdHkgb2YgSGF3YWlpKSzCoGFuZCBPLiBIYWluYXV0IChFdXJvcGVhbiBTb3V0aGVybiBPYnNlcnZhdG9yeSkiLCJuZXdzX25hbWUiOiJiIiwibWlzc2lvbiI6Imh1YmJsZSIsImNvbGxlY3Rpb24iOiJuZXdzIiwiaW1hZ2VfZmlsZXMiOlt7ImZpbGVfdXJsIjoiaHR0cHM6Ly9tZWRpYS5zdHNjaS5lZHUvdXBsb2Fkcy9pbWFnZV9maWxlL2ltYWdlX2F0dGFjaG1lbnQvMzEzMjMvU1RTQ0ktSC1wMTkyMmItei0xMDAweDU4Mi5wbmciLCJmaWxlX3NpemUiOjkwMzg2Mywid2lkdGgiOjEwMDAsImhlaWdodCI6NTgyfSx7ImZpbGVfdXJsIjoiaHR0cHM6Ly9tZWRpYS5zdHNjaS5lZHUvdXBsb2Fkcy9pbWFnZV9maWxlL2ltYWdlX2F0dGFjaG1lbnQvMzEzMjIvU1RTQ0ktSC1wMTkyMmItbS0yMDAweDExNjQucG5nIiwiZmlsZV9zaXplIjo0NTQ4NDU1LCJ3aWR0aCI6MjAwMCwiaGVpZ2h0IjoxMTY0fSx7ImZpbGVfdXJsIjoiaHR0cHM6Ly9tZWRpYS5zdHNjaS5lZHUvdXBsb2Fkcy9pbWFnZV9maWxlL2ltYWdlX2F0dGFjaG1lbnQvMzEzMjEvU1RTQ0ktSC1wMTkyMmItZi01MTkweDMwMjMucG5nIiwiZmlsZV9zaXplIjozNDgwMzg1Mywid2lkdGgiOjUxOTAsImhlaWdodCI6MzAyM30seyJmaWxlX3VybCI6Imh0dHBzOi8vbWVkaWEuc3RzY2kuZWR1L3VwbG9hZHMvaW1hZ2VfZmlsZS9pbWFnZV9hdHRhY2htZW50LzMxMzIwL1NUU0NJLUgtcDE5MjJiLWYtNTE5MHgzMDIzLnRpZiIsImZpbGVfc2l6ZSI6MzgyNDU0NzIsIndpZHRoIjo1MTkwLCJoZWlnaHQiOjMwMjN9XX0=
     http_version: 
-  recorded_at: Tue, 16 Apr 2019 22:14:24 GMT
+  recorded_at: Tue, 16 Apr 2019 22:36:30 GMT
 - request:
     method: get
     uri: http://hubblesite.org/api/v3/image/4376
@@ -268,7 +268,7 @@ http_interactions:
       message: OK
     headers:
       Date:
-      - Tue, 16 Apr 2019 22:14:24 GMT
+      - Tue, 16 Apr 2019 22:36:31 GMT
       Server:
       - Apache/2.2.15
       X-Frame-Options:
@@ -287,13 +287,13 @@ http_interactions:
       - max-age=0, private, must-revalidate
       - max-age=31536000
       X-Request-Id:
-      - bbdfc159-1242-4a35-933c-3447a190a3db
+      - 0dcf45b3-51e3-44e5-ac75-281582807f12
       X-Runtime:
-      - '0.004086'
+      - '0.003736'
       Status:
       - 200 OK
       Expires:
-      - Wed, 15 Apr 2020 22:14:24 GMT
+      - Wed, 15 Apr 2020 22:36:31 GMT
       Transfer-Encoding:
       - chunked
       Content-Type:
@@ -309,7 +309,7 @@ http_interactions:
         href=\"http://www.nasa.gov/\"\u003eNASA\u003c/a\u003e, \u003ca href=\"http://www.spacetelescope.org/\"\u003eESA\u003c/a\u003e,
         and J. Lotz, M. Mountain, A. Koekemoer, and the HFF Team (STScI)","news_name":"a","mission":"james_webb","collection":"news","image_files":[{"file_url":"https://media.stsci.edu/uploads/image_file/image_attachment/31306/STSCI-J-p1920a-z-896x1000.png","file_size":1528943,"width":896,"height":1000},{"file_url":"https://media.stsci.edu/uploads/image_file/image_attachment/31305/STSCI-J-p1920a-m-1793x2000.png","file_size":6636881,"width":1793,"height":2000},{"file_url":"https://media.stsci.edu/uploads/image_file/image_attachment/31304/STSCI-J-p1920a-f-3909x4360.png","file_size":31778769,"width":3909,"height":4360},{"file_url":"https://media.stsci.edu/uploads/image_file/image_attachment/31303/STSCI-J-p1920a-f-3909x4360.tif","file_size":41450432,"width":3909,"height":4360}]}'
     http_version: 
-  recorded_at: Tue, 16 Apr 2019 22:14:24 GMT
+  recorded_at: Tue, 16 Apr 2019 22:36:31 GMT
 - request:
     method: get
     uri: http://hubblesite.org/api/v3/image/4377
@@ -329,7 +329,7 @@ http_interactions:
       message: OK
     headers:
       Date:
-      - Tue, 16 Apr 2019 22:14:25 GMT
+      - Tue, 16 Apr 2019 22:36:31 GMT
       Server:
       - Apache/2.2.15
       X-Frame-Options:
@@ -348,13 +348,13 @@ http_interactions:
       - max-age=0, private, must-revalidate
       - max-age=31536000
       X-Request-Id:
-      - 94bb6797-0415-4e28-8c0e-273c695c544e
+      - 2bc4ab72-1977-4625-8fca-1d165b8928f2
       X-Runtime:
-      - '0.004255'
+      - '0.002910'
       Status:
       - 200 OK
       Expires:
-      - Wed, 15 Apr 2020 22:14:25 GMT
+      - Wed, 15 Apr 2020 22:36:31 GMT
       Transfer-Encoding:
       - chunked
       Content-Type:
@@ -372,7 +372,7 @@ http_interactions:
         \u003ca href=\"http://www.spacetelescope.org/\"\u003eESA\u003c/a\u003e, and
         Z. Levay and A. Feild (\u003ca href=\"http://www.stsci.edu/\"\u003eSTScI\u003c/a\u003e)","news_name":"b","mission":"james_webb","collection":"news","image_files":[{"file_url":"https://media.stsci.edu/uploads/image_file/image_attachment/31310/STSCI-J-p1920b-z-1000x800.png","file_size":970569,"width":1000,"height":800},{"file_url":"https://media.stsci.edu/uploads/image_file/image_attachment/31309/STSCI-J-p1920b-m-2000x1600.png","file_size":3915128,"width":2000,"height":1600},{"file_url":"https://media.stsci.edu/uploads/image_file/image_attachment/31308/STSCI-J-p1920b-f-3000x2400.png","file_size":7404103,"width":3000,"height":2400},{"file_url":"https://media.stsci.edu/uploads/image_file/image_attachment/31307/STSCI-J-p1920b-f-3000x2400.tif","file_size":8721028,"width":3000,"height":2400}]}'
     http_version: 
-  recorded_at: Tue, 16 Apr 2019 22:14:25 GMT
+  recorded_at: Tue, 16 Apr 2019 22:36:31 GMT
 - request:
     method: get
     uri: http://hubblesite.org/api/v3/image/4378
@@ -392,7 +392,7 @@ http_interactions:
       message: OK
     headers:
       Date:
-      - Tue, 16 Apr 2019 22:14:25 GMT
+      - Tue, 16 Apr 2019 22:36:31 GMT
       Server:
       - Apache/2.2.15
       X-Frame-Options:
@@ -411,13 +411,13 @@ http_interactions:
       - max-age=0, private, must-revalidate
       - max-age=31536000
       X-Request-Id:
-      - 598c02cf-97d4-4251-984e-2b63cb7d2192
+      - 5caf21d6-5cda-43e7-b2c3-f796c80ec9c9
       X-Runtime:
-      - '0.003824'
+      - '0.003852'
       Status:
       - 200 OK
       Expires:
-      - Wed, 15 Apr 2020 22:14:25 GMT
+      - Wed, 15 Apr 2020 22:36:31 GMT
       Transfer-Encoding:
       - chunked
       Content-Type:
@@ -432,7 +432,7 @@ http_interactions:
         href=\"http://www.nasa.gov/\"\u003eNASA\u003c/a\u003e, \u003ca href=\"http://www.spacetelescope.org/\"\u003eESA\u003c/a\u003e,
         and L. Hustak (\u003ca href=\"http://www.stsci.edu/\"\u003eSTScI\u003c/a\u003e)","news_name":"c","mission":"james_webb","collection":"news","image_files":[{"file_url":"https://media.stsci.edu/uploads/image_file/image_attachment/31314/STSCI-J-p1920c-z-440x1000.png","file_size":284895,"width":440,"height":1000},{"file_url":"https://media.stsci.edu/uploads/image_file/image_attachment/31313/STSCI-J-p1920c-m-880x2000.png","file_size":750502,"width":880,"height":2000},{"file_url":"https://media.stsci.edu/uploads/image_file/image_attachment/31312/STSCI-J-p1920c-f-8001x18184.png","file_size":7717541,"width":8001,"height":18184},{"file_url":"https://media.stsci.edu/uploads/image_file/image_attachment/31311/STSCI-J-p1920c-f-8001x18184.tif","file_size":11593664,"width":8001,"height":18184}]}'
     http_version: 
-  recorded_at: Tue, 16 Apr 2019 22:14:25 GMT
+  recorded_at: Tue, 16 Apr 2019 22:36:31 GMT
 - request:
     method: get
     uri: http://hubblesite.org/api/v3/image/4369
@@ -452,7 +452,7 @@ http_interactions:
       message: OK
     headers:
       Date:
-      - Tue, 16 Apr 2019 22:14:25 GMT
+      - Tue, 16 Apr 2019 22:36:31 GMT
       Server:
       - Apache/2.2.15
       X-Frame-Options:
@@ -471,13 +471,13 @@ http_interactions:
       - max-age=0, private, must-revalidate
       - max-age=31536000
       X-Request-Id:
-      - 5cdf6adf-4e3f-4954-91ba-103b3c67abc2
+      - 5921b7fc-6e0d-4bc3-9bb0-7ca713a7ef83
       X-Runtime:
-      - '0.003912'
+      - '0.003956'
       Status:
       - 200 OK
       Expires:
-      - Wed, 15 Apr 2020 22:14:25 GMT
+      - Wed, 15 Apr 2020 22:36:31 GMT
       Transfer-Encoding:
       - chunked
       Content-Type:
@@ -500,7 +500,7 @@ http_interactions:
         \u003ca href=\"http://www.spacetelescope.org\"\u003eESA\u003c/a\u003e, and
         A. Feild (\u003ca href=\"http://www.stsci.edu\"\u003eSTScI\u003c/a\u003e)","news_name":"a","mission":"hubble","collection":"news","image_files":[{"file_url":"https://media.stsci.edu/uploads/image_file/image_attachment/31292/STSCI-H-p1916a-10x8.pdf","file_size":25163687,"width":720,"height":576},{"file_url":"https://media.stsci.edu/uploads/image_file/image_attachment/31293/STSCI-H-p1916a-z1000x750.png","file_size":957277,"width":1000,"height":750},{"file_url":"https://media.stsci.edu/uploads/image_file/image_attachment/31295/STSCI-H-p1916a-m2000x1500.png","file_size":3156826,"width":2000,"height":1500},{"file_url":"https://media.stsci.edu/uploads/image_file/image_attachment/31291/STSCI-H-p1916a-f3600x2700.jpg","file_size":3646304,"width":3600,"height":2700},{"file_url":"https://media.stsci.edu/uploads/image_file/image_attachment/31290/STSCI-H-p1916a-f3600x2700.tif","file_size":29200232,"width":3600,"height":2700}]}'
     http_version: 
-  recorded_at: Tue, 16 Apr 2019 22:14:25 GMT
+  recorded_at: Tue, 16 Apr 2019 22:36:31 GMT
 - request:
     method: get
     uri: http://hubblesite.org/api/v3/image/4370
@@ -520,7 +520,7 @@ http_interactions:
       message: OK
     headers:
       Date:
-      - Tue, 16 Apr 2019 22:14:25 GMT
+      - Tue, 16 Apr 2019 22:36:31 GMT
       Server:
       - Apache/2.2.15
       X-Frame-Options:
@@ -539,13 +539,13 @@ http_interactions:
       - max-age=0, private, must-revalidate
       - max-age=31536000
       X-Request-Id:
-      - 96761a56-3704-4000-a370-5d27b7add95c
+      - 06d7ecbb-9a74-42cf-b1e9-6f7481ac1178
       X-Runtime:
-      - '0.004702'
+      - '0.003581'
       Status:
       - 200 OK
       Expires:
-      - Wed, 15 Apr 2020 22:14:25 GMT
+      - Wed, 15 Apr 2020 22:36:31 GMT
       Transfer-Encoding:
       - chunked
       Content-Type:
@@ -555,7 +555,7 @@ http_interactions:
       string: '{"name":"Hubble Space Telescope in Orbit","description":"This is a
         photograph of the Hubble Space Telescope in orbit.","credits":"\u003ca href=\"http://www.nasa.gov\"\u003eNASA\u003c/a\u003e","news_name":"a","mission":"hubble","collection":"news","image_files":[{"file_url":"https://media.stsci.edu/uploads/image_file/image_attachment/31297/STScI-H-p1923a-f3072x2040.tiff","file_size":18842624,"width":3072,"height":2040},{"file_url":"https://media.stsci.edu/uploads/image_file/image_attachment/31296/STScI-H-p1923a-f3072x2040.jpg","file_size":2051306,"width":3072,"height":2040}]}'
     http_version: 
-  recorded_at: Tue, 16 Apr 2019 22:14:25 GMT
+  recorded_at: Tue, 16 Apr 2019 22:36:31 GMT
 - request:
     method: get
     uri: http://hubblesite.org/api/v3/image/4368
@@ -575,7 +575,7 @@ http_interactions:
       message: OK
     headers:
       Date:
-      - Tue, 16 Apr 2019 22:14:25 GMT
+      - Tue, 16 Apr 2019 22:36:31 GMT
       Server:
       - Apache/2.2.15
       X-Frame-Options:
@@ -594,13 +594,13 @@ http_interactions:
       - max-age=0, private, must-revalidate
       - max-age=31536000
       X-Request-Id:
-      - fda9254c-720c-40d3-ad91-bdf2963ef296
+      - e64a4145-95e9-4ac8-8473-5f130eb5165b
       X-Runtime:
-      - '0.004040'
+      - '0.003474'
       Status:
       - 200 OK
       Expires:
-      - Wed, 15 Apr 2020 22:14:25 GMT
+      - Wed, 15 Apr 2020 22:36:31 GMT
       Transfer-Encoding:
       - chunked
       Content-Type:
@@ -610,7 +610,7 @@ http_interactions:
       string: '{"name":"Hubble Space Telescope in Orbit","description":"This is a
         photograph of the Hubble Space Telescope in orbit.","credits":"\u003ca href=\"http://www.nasa.gov\"\u003eNASA\u003c/a\u003e","news_name":"a","mission":"hubble","collection":"news","image_files":[{"file_url":"https://media.stsci.edu/uploads/image_file/image_attachment/31289/STScI-H-p1921a-f3072x2040.tiff","file_size":18842624,"width":3072,"height":2040},{"file_url":"https://media.stsci.edu/uploads/image_file/image_attachment/31288/STScI-H-p1921a-f3072x2040.jpg","file_size":2051306,"width":3072,"height":2040}]}'
     http_version: 
-  recorded_at: Tue, 16 Apr 2019 22:14:25 GMT
+  recorded_at: Tue, 16 Apr 2019 22:36:31 GMT
 - request:
     method: get
     uri: http://hubblesite.org/api/v3/image/4324
@@ -630,7 +630,7 @@ http_interactions:
       message: OK
     headers:
       Date:
-      - Tue, 16 Apr 2019 22:14:25 GMT
+      - Tue, 16 Apr 2019 22:36:31 GMT
       Server:
       - Apache/2.2.15
       X-Frame-Options:
@@ -649,13 +649,13 @@ http_interactions:
       - max-age=0, private, must-revalidate
       - max-age=31536000
       X-Request-Id:
-      - 5d32eba2-fc58-4660-bf14-161af61382ef
+      - bf1f7e57-6198-4455-95b8-67ebc631581e
       X-Runtime:
-      - '0.003925'
+      - '0.003811'
       Status:
       - 200 OK
       Expires:
-      - Wed, 15 Apr 2020 22:14:25 GMT
+      - Wed, 15 Apr 2020 22:36:31 GMT
       Transfer-Encoding:
       - chunked
       Content-Type:
@@ -675,7 +675,7 @@ http_interactions:
         State/K. Frank et al.\r\nALMA credit: ALMA (ESO/NAOJ/NRAO) and R. Indebetouw
         (NRAO/AUI/NSF)","news_name":"a","mission":"james_webb","collection":"news","image_files":[{"file_url":"https://media.stsci.edu/uploads/image_file/image_attachment/31238/STSCI-J-p1913a-f2000x2000.tif","file_size":819084,"width":2000,"height":2000},{"file_url":"https://media.stsci.edu/uploads/image_file/image_attachment/31237/STSCI-J-p1913a-m2000x2000.png","file_size":775868,"width":2000,"height":2000}]}'
     http_version: 
-  recorded_at: Tue, 16 Apr 2019 22:14:25 GMT
+  recorded_at: Tue, 16 Apr 2019 22:36:31 GMT
 - request:
     method: get
     uri: http://hubblesite.org/api/v3/image/4359
@@ -695,7 +695,7 @@ http_interactions:
       message: OK
     headers:
       Date:
-      - Tue, 16 Apr 2019 22:14:25 GMT
+      - Tue, 16 Apr 2019 22:36:31 GMT
       Server:
       - Apache/2.2.15
       X-Frame-Options:
@@ -714,13 +714,13 @@ http_interactions:
       - max-age=0, private, must-revalidate
       - max-age=31536000
       X-Request-Id:
-      - ed0ea2df-3606-40ca-ab12-4882c893bbb1
+      - 68e215e7-d854-4e1e-b5b8-755a42634fe1
       X-Runtime:
-      - '0.004389'
+      - '0.004535'
       Status:
       - 200 OK
       Expires:
-      - Wed, 15 Apr 2020 22:14:25 GMT
+      - Wed, 15 Apr 2020 22:36:31 GMT
       Transfer-Encoding:
       - chunked
       Content-Type:
@@ -734,7 +734,7 @@ http_interactions:
         \u003ca href=\"http://www.spacetelescope.org/\"\u003eESA\u003c/a\u003e, and
         L. Hustak (\u003ca href=\"http://www.stsci.edu/\"\u003eSTScI\u003c/a\u003e)","news_name":"b","mission":"james_webb","collection":"news","image_files":[{"file_url":"https://media.stsci.edu/uploads/image_file/image_attachment/31277/20190222-Webb-SupernovaInfographic-1080p-300dpi-Final.png","file_size":14385290,"width":8001,"height":4501}]}'
     http_version: 
-  recorded_at: Tue, 16 Apr 2019 22:14:25 GMT
+  recorded_at: Tue, 16 Apr 2019 22:36:31 GMT
 - request:
     method: get
     uri: http://hubblesite.org/api/v3/image/4358
@@ -754,7 +754,7 @@ http_interactions:
       message: OK
     headers:
       Date:
-      - Tue, 16 Apr 2019 22:14:25 GMT
+      - Tue, 16 Apr 2019 22:36:31 GMT
       Server:
       - Apache/2.2.15
       X-Frame-Options:
@@ -773,13 +773,13 @@ http_interactions:
       - max-age=0, private, must-revalidate
       - max-age=31536000
       X-Request-Id:
-      - f0bfd324-5229-4196-b13d-f1b828d5a305
+      - 32a8d578-a1cb-480b-8339-8d28da1954e6
       X-Runtime:
-      - '0.004379'
+      - '0.004645'
       Status:
       - 200 OK
       Expires:
-      - Wed, 15 Apr 2020 22:14:25 GMT
+      - Wed, 15 Apr 2020 22:36:31 GMT
       Transfer-Encoding:
       - chunked
       Content-Type:
@@ -792,7 +792,7 @@ http_interactions:
         Space Telescope is designed to detect the very dim light in the red and infrared
         part of the electromagnetic spectrum. ","credits":"\u003ca href=\"http://www.stsci.edu/\"\u003eSTScI\u003c/a\u003e","mission":"james_webb","collection":"webb_non_news_assets","image_files":[{"file_url":"https://media.stsci.edu/uploads/image_file/image_attachment/31276/STScI-H-first-stars-redshift-2016x1111_.jpg","file_size":507409,"width":2017,"height":1111}]}'
     http_version: 
-  recorded_at: Tue, 16 Apr 2019 22:14:25 GMT
+  recorded_at: Tue, 16 Apr 2019 22:36:31 GMT
 - request:
     method: get
     uri: http://hubblesite.org/api/v3/image/4357
@@ -812,7 +812,7 @@ http_interactions:
       message: OK
     headers:
       Date:
-      - Tue, 16 Apr 2019 22:14:25 GMT
+      - Tue, 16 Apr 2019 22:36:32 GMT
       Server:
       - Apache/2.2.15
       X-Frame-Options:
@@ -831,13 +831,13 @@ http_interactions:
       - max-age=0, private, must-revalidate
       - max-age=31536000
       X-Request-Id:
-      - 744be903-8f78-4bf5-9f4d-c03f53ad4286
+      - b1a2be6e-602f-4fd7-8da8-fe5a56a0582d
       X-Runtime:
-      - '0.003738'
+      - '0.005318'
       Status:
       - 200 OK
       Expires:
-      - Wed, 15 Apr 2020 22:14:25 GMT
+      - Wed, 15 Apr 2020 22:36:32 GMT
       Transfer-Encoding:
       - chunked
       Content-Type:
@@ -850,7 +850,7 @@ http_interactions:
         ions. UV light from the first stars was absorbed by hydrogen atoms, causing
         them to be ionized.","credits":"\u003ca href=\"http://www.stsci.edu/\"\u003eSTScI\u003c/a\u003e","mission":"james_webb","collection":"webb_non_news_assets","image_files":[{"file_url":"https://media.stsci.edu/uploads/image_file/image_attachment/31275/STScI-H-first-stars-Ionization-2016x1111.jpg","file_size":280649,"width":2016,"height":1111}]}'
     http_version: 
-  recorded_at: Tue, 16 Apr 2019 22:14:25 GMT
+  recorded_at: Tue, 16 Apr 2019 22:36:32 GMT
 - request:
     method: get
     uri: http://hubblesite.org/api/v3/image/4356
@@ -870,7 +870,7 @@ http_interactions:
       message: OK
     headers:
       Date:
-      - Tue, 16 Apr 2019 22:14:25 GMT
+      - Tue, 16 Apr 2019 22:36:32 GMT
       Server:
       - Apache/2.2.15
       X-Frame-Options:
@@ -889,13 +889,13 @@ http_interactions:
       - max-age=0, private, must-revalidate
       - max-age=31536000
       X-Request-Id:
-      - 221ba7e9-aefe-4b24-be3b-5f04017a610c
+      - 3518760f-8dfa-4f5f-a5ea-ab6dc8202493
       X-Runtime:
-      - '0.004635'
+      - '0.004536'
       Status:
       - 200 OK
       Expires:
-      - Wed, 15 Apr 2020 22:14:25 GMT
+      - Wed, 15 Apr 2020 22:36:32 GMT
       Transfer-Encoding:
       - chunked
       Content-Type:
@@ -905,7 +905,7 @@ http_interactions:
       string: !binary |-
         eyJuYW1lIjoiVGVtcGVyYXR1cmUsIEJyaWdodG5lc3MsIGFuZCBDb2xvciBvZiB0aGUgRmlyc3QgU3RhcnMiLCJkZXNjcmlwdGlvbiI6Ik1hc3NpdmUgUG9wdWxhdGlvbiBJSUkgc3RhcnMgY291bGQgaGF2ZSBiZWVuIGFzIGhvdCBhcyAxMDAsMDAwIGtlbHZpbuKAlG1vcmUgdGhhbiA5MCwwMDAgZGVncmVlcyBob3R0ZXIgdGhhbiB0aGUgU3VuLiBUaGUgaG90dGVyIGFueSBvYmplY3QgaXMsIHRoZSBtb3JlIGVsZWN0cm9tYWduZXRpYyByYWRpYXRpb24gKGxpZ2h0KSBpdCBnaXZlcyBvZmYsIGFuZCB0aGUgaGlnaGVyIGVuZXJneSB0aGUgcmFkaWF0aW9uIGlzLiBQb3B1bGF0aW9uIElJSSBzdGFycyB3b3VsZCBoYXZlIGJlZW4gbXVjaCBicmlnaHRlciB0aGFuIHRoZSBTdW4sIGdpdmluZyBvZmYgbW9zdGx5IGhpZ2gtZW5lcmd5IHVsdHJhdmlvbGV0IHJhdGhlciB0aGFuIHZpc2libGUgbGlnaHQuICIsImNyZWRpdHMiOiJcdTAwM2NhIGhyZWY9XCJodHRwOi8vd3d3LnN0c2NpLmVkdS9cIlx1MDAzZVNUU2NJXHUwMDNjL2FcdTAwM2UiLCJtaXNzaW9uIjoiamFtZXNfd2ViYiIsImNvbGxlY3Rpb24iOiJ3ZWJiX25vbl9uZXdzX2Fzc2V0cyIsImltYWdlX2ZpbGVzIjpbeyJmaWxlX3VybCI6Imh0dHBzOi8vbWVkaWEuc3RzY2kuZWR1L3VwbG9hZHMvaW1hZ2VfZmlsZS9pbWFnZV9hdHRhY2htZW50LzMxMjc0L1NUU2NJLUgtZmlyc3Qtc3RhcnMtVGVtcC1MdW1pbm9zaXR5LTIwMTZ4MTExMS5qcGciLCJmaWxlX3NpemUiOjQ1OTUyNiwid2lkdGgiOjIwMTYsImhlaWdodCI6MTExMX1dfQ==
     http_version: 
-  recorded_at: Tue, 16 Apr 2019 22:14:26 GMT
+  recorded_at: Tue, 16 Apr 2019 22:36:32 GMT
 - request:
     method: get
     uri: http://hubblesite.org/api/v3/image/4355
@@ -925,7 +925,7 @@ http_interactions:
       message: OK
     headers:
       Date:
-      - Tue, 16 Apr 2019 22:14:26 GMT
+      - Tue, 16 Apr 2019 22:36:32 GMT
       Server:
       - Apache/2.2.15
       X-Frame-Options:
@@ -944,13 +944,13 @@ http_interactions:
       - max-age=0, private, must-revalidate
       - max-age=31536000
       X-Request-Id:
-      - c428d1a8-eb85-4a34-b982-b11811a7b35b
+      - 2615c851-76e9-45be-918b-c3d96876bd5d
       X-Runtime:
-      - '0.003964'
+      - '0.003675'
       Status:
       - 200 OK
       Expires:
-      - Wed, 15 Apr 2020 22:14:26 GMT
+      - Wed, 15 Apr 2020 22:36:32 GMT
       Transfer-Encoding:
       - chunked
       Content-Type:
@@ -962,7 +962,7 @@ http_interactions:
         stars were all this massive, they would have burned out long ago.","credits":"\u003ca
         href=\"http://www.stsci.edu/\"\u003eSTScI\u003c/a\u003e","mission":"james_webb","collection":"webb_non_news_assets","image_files":[{"file_url":"https://media.stsci.edu/uploads/image_file/image_attachment/31273/STScI-H-first-stars-LifeSpan-4117x1111.jpg","file_size":456041,"width":4117,"height":1111}]}'
     http_version: 
-  recorded_at: Tue, 16 Apr 2019 22:14:26 GMT
+  recorded_at: Tue, 16 Apr 2019 22:36:32 GMT
 - request:
     method: get
     uri: http://hubblesite.org/api/v3/image/4354
@@ -982,7 +982,7 @@ http_interactions:
       message: OK
     headers:
       Date:
-      - Tue, 16 Apr 2019 22:14:26 GMT
+      - Tue, 16 Apr 2019 22:36:32 GMT
       Server:
       - Apache/2.2.15
       X-Frame-Options:
@@ -1001,13 +1001,13 @@ http_interactions:
       - max-age=0, private, must-revalidate
       - max-age=31536000
       X-Request-Id:
-      - fda5fff6-e289-448e-822a-59d85d5912c1
+      - 29c1d170-a086-46da-bbec-41156f65f056
       X-Runtime:
-      - '0.003373'
+      - '0.004067'
       Status:
       - 200 OK
       Expires:
-      - Wed, 15 Apr 2020 22:14:26 GMT
+      - Wed, 15 Apr 2020 22:36:32 GMT
       Transfer-Encoding:
       - chunked
       Content-Type:
@@ -1018,7 +1018,7 @@ http_interactions:
         probably tens to hundreds of times the mass of the Sun, but might have been
         a lot smaller than this.","credits":"\u003ca href=\"http://www.stsci.edu/\"\u003eSTScI\u003c/a\u003e","mission":"james_webb","collection":"webb_non_news_assets","image_files":[{"file_url":"https://media.stsci.edu/uploads/image_file/image_attachment/31272/STScI-H-first-stars-mass-2016x1111.jpg","file_size":376244,"width":2016,"height":1111}]}'
     http_version: 
-  recorded_at: Tue, 16 Apr 2019 22:14:26 GMT
+  recorded_at: Tue, 16 Apr 2019 22:36:32 GMT
 - request:
     method: get
     uri: http://hubblesite.org/api/v3/image/4353
@@ -1038,7 +1038,7 @@ http_interactions:
       message: OK
     headers:
       Date:
-      - Tue, 16 Apr 2019 22:14:26 GMT
+      - Tue, 16 Apr 2019 22:36:32 GMT
       Server:
       - Apache/2.2.15
       X-Frame-Options:
@@ -1057,13 +1057,13 @@ http_interactions:
       - max-age=0, private, must-revalidate
       - max-age=31536000
       X-Request-Id:
-      - 2169d197-1ee4-40b0-8bd4-09745aa7fe45
+      - a659180f-036b-4d0c-bfd4-d32c617cbb1a
       X-Runtime:
-      - '0.004140'
+      - '0.005333'
       Status:
       - 200 OK
       Expires:
-      - Wed, 15 Apr 2020 22:14:26 GMT
+      - Wed, 15 Apr 2020 22:36:32 GMT
       Transfer-Encoding:
       - chunked
       Content-Type:
@@ -1076,7 +1076,7 @@ http_interactions:
         heavier elements like oxygen, carbon, and iron, which formed in the cores
         of earlier stars. ","credits":"\u003ca href=\"http://www.stsci.edu/\"\u003eSTScI\u003c/a\u003e","mission":"james_webb","collection":"webb_non_news_assets","image_files":[{"file_url":"https://media.stsci.edu/uploads/image_file/image_attachment/31271/STScI-H-first-stars-composition-4044x2676.jpg","file_size":995192,"width":4044,"height":2676}]}'
     http_version: 
-  recorded_at: Tue, 16 Apr 2019 22:14:26 GMT
+  recorded_at: Tue, 16 Apr 2019 22:36:32 GMT
 - request:
     method: get
     uri: http://hubblesite.org/api/v3/image/4352
@@ -1096,7 +1096,7 @@ http_interactions:
       message: OK
     headers:
       Date:
-      - Tue, 16 Apr 2019 22:14:26 GMT
+      - Tue, 16 Apr 2019 22:36:32 GMT
       Server:
       - Apache/2.2.15
       X-Frame-Options:
@@ -1115,13 +1115,13 @@ http_interactions:
       - max-age=0, private, must-revalidate
       - max-age=31536000
       X-Request-Id:
-      - 6d0027db-f51a-4066-95bb-7feac4de8c74
+      - e76568c4-7fcb-4370-b1bf-94c66bffa806
       X-Runtime:
-      - '0.004874'
+      - '0.003800'
       Status:
       - 200 OK
       Expires:
-      - Wed, 15 Apr 2020 22:14:26 GMT
+      - Wed, 15 Apr 2020 22:36:32 GMT
       Transfer-Encoding:
       - chunked
       Content-Type:
@@ -1137,7 +1137,7 @@ http_interactions:
         into hydrogen ions and free electrons, initiating the era of Reionization
         and the end of the Dark Ages of the universe.","credits":"\u003ca href=\"http://www.stsci.edu/\"\u003eSTScI\u003c/a\u003e","mission":"james_webb","collection":"webb_non_news_assets","image_files":[{"file_url":"https://media.stsci.edu/uploads/image_file/image_attachment/31270/STScI-H-first-stars-universe-history-6135x3526.jpg","file_size":1713311,"width":6135,"height":3526}]}'
     http_version: 
-  recorded_at: Tue, 16 Apr 2019 22:14:26 GMT
+  recorded_at: Tue, 16 Apr 2019 22:36:32 GMT
 - request:
     method: get
     uri: http://hubblesite.org/api/v3/image/4313
@@ -1157,7 +1157,7 @@ http_interactions:
       message: OK
     headers:
       Date:
-      - Tue, 16 Apr 2019 22:14:26 GMT
+      - Tue, 16 Apr 2019 22:36:32 GMT
       Server:
       - Apache/2.2.15
       X-Frame-Options:
@@ -1176,13 +1176,13 @@ http_interactions:
       - max-age=0, private, must-revalidate
       - max-age=31536000
       X-Request-Id:
-      - ceeb637d-2267-410b-a040-556351424f9f
+      - 4be4e703-0bf9-4a7e-b853-bd3b8e28625d
       X-Runtime:
-      - '0.004303'
+      - '0.003824'
       Status:
       - 200 OK
       Expires:
-      - Wed, 15 Apr 2020 22:14:26 GMT
+      - Wed, 15 Apr 2020 22:36:32 GMT
       Transfer-Encoding:
       - chunked
       Content-Type:
@@ -1198,7 +1198,7 @@ http_interactions:
         href=\"http://www.nasa.gov\"\u003eNASA\u003c/a\u003e, \u003ca href=\"http://www.spacetelescope.org\"\u003eESA\u003c/a\u003e,
         and J. Olmsted (\u003ca href=\"http://www.stsci.edu\"\u003eSTScI\u003c/a\u003e)","news_name":"a","mission":"hubble","collection":"news","image_files":[{"file_url":"https://media.stsci.edu/uploads/image_file/image_attachment/31214/STScI-H-p1904a-f-1008x576.pdf","file_size":6859991,"width":1008,"height":576},{"file_url":"https://media.stsci.edu/uploads/image_file/image_attachment/31213/STScI-H-p1904a-m-2000x1143.png","file_size":3536961,"width":2000,"height":1143},{"file_url":"https://media.stsci.edu/uploads/image_file/image_attachment/31215/STScI-H-p1904a-f-4200x2400.png","file_size":11338663,"width":4200,"height":2400},{"file_url":"https://media.stsci.edu/uploads/image_file/image_attachment/31216/STScI-H-p1904a-f-4200x2400.tif","file_size":13441504,"width":4200,"height":2400}]}'
     http_version: 
-  recorded_at: Tue, 16 Apr 2019 22:14:26 GMT
+  recorded_at: Tue, 16 Apr 2019 22:36:32 GMT
 - request:
     method: get
     uri: http://hubblesite.org/api/v3/image/4314
@@ -1218,7 +1218,7 @@ http_interactions:
       message: OK
     headers:
       Date:
-      - Tue, 16 Apr 2019 22:14:26 GMT
+      - Tue, 16 Apr 2019 22:36:32 GMT
       Server:
       - Apache/2.2.15
       X-Frame-Options:
@@ -1237,13 +1237,13 @@ http_interactions:
       - max-age=0, private, must-revalidate
       - max-age=31536000
       X-Request-Id:
-      - a75d814d-f333-4833-8ff7-105f07364e9d
+      - f2a83d5b-3e38-4465-b4d2-0258444cfc65
       X-Runtime:
-      - '0.004472'
+      - '0.003422'
       Status:
       - 200 OK
       Expires:
-      - Wed, 15 Apr 2020 22:14:26 GMT
+      - Wed, 15 Apr 2020 22:36:32 GMT
       Transfer-Encoding:
       - chunked
       Content-Type:
@@ -1264,7 +1264,7 @@ http_interactions:
         \u003ca href=\"http://www.spacetelescope.org\"\u003eESA\u003c/a\u003e, and
         A. Feild (\u003ca href=\"http://www.stsci.edu\"\u003eSTScI\u003c/a\u003e)","news_name":"b","mission":"hubble","collection":"news","image_files":[{"file_url":"https://media.stsci.edu/uploads/image_file/image_attachment/31208/STSCI-H-p11904b-e-10x8.pdf","file_size":2205829,"width":720,"height":576},{"file_url":"https://media.stsci.edu/uploads/image_file/image_attachment/31234/STSCI-H-p1904b-z-1000x800.png","file_size":234963,"width":1000,"height":800},{"file_url":"https://media.stsci.edu/uploads/image_file/image_attachment/31212/STSCI-H-p1904b-m-2000x1600.png","file_size":588916,"width":2000,"height":1600},{"file_url":"https://media.stsci.edu/uploads/image_file/image_attachment/31235/STSCI-H-p1904b-f-3000x2400.tif","file_size":21637626,"width":3000,"height":2400},{"file_url":"https://media.stsci.edu/uploads/image_file/image_attachment/31044/STSCI-H-p1904b-f-3000x2400.jpg","file_size":912938,"width":3000,"height":2400}]}'
     http_version: 
-  recorded_at: Tue, 16 Apr 2019 22:14:26 GMT
+  recorded_at: Tue, 16 Apr 2019 22:36:32 GMT
 - request:
     method: get
     uri: http://hubblesite.org/api/v3/image/4320
@@ -1284,7 +1284,7 @@ http_interactions:
       message: OK
     headers:
       Date:
-      - Tue, 16 Apr 2019 22:14:26 GMT
+      - Tue, 16 Apr 2019 22:36:32 GMT
       Server:
       - Apache/2.2.15
       X-Frame-Options:
@@ -1303,13 +1303,13 @@ http_interactions:
       - max-age=0, private, must-revalidate
       - max-age=31536000
       X-Request-Id:
-      - eaa49984-d41b-4bb4-8361-f360404df57f
+      - d89c25a2-f773-49f7-87cf-5f3fa637b8b8
       X-Runtime:
-      - '0.005112'
+      - '0.004446'
       Status:
       - 200 OK
       Expires:
-      - Wed, 15 Apr 2020 22:14:26 GMT
+      - Wed, 15 Apr 2020 22:36:32 GMT
       Transfer-Encoding:
       - chunked
       Content-Type:
@@ -1388,7 +1388,7 @@ http_interactions:
         Simon (NASA Goddard Space Flight Center), and M.H. Wong and A. Hsu (University
         of California, Berkeley)","news_name":"a","mission":"hubble","collection":"news","image_files":[{"file_url":"https://media.stsci.edu/uploads/image_file/image_attachment/31226/STSCI-H-p1906a-f-1028x543.tif","file_size":226642,"width":1028,"height":543},{"file_url":"https://media.stsci.edu/uploads/image_file/image_attachment/31227/STSCI-H-p1906a-f-1028x543.png","file_size":234546,"width":1028,"height":543}]}'
     http_version: 
-  recorded_at: Tue, 16 Apr 2019 22:14:26 GMT
+  recorded_at: Tue, 16 Apr 2019 22:36:32 GMT
 - request:
     method: get
     uri: http://hubblesite.org/api/v3/image/4321
@@ -1408,7 +1408,7 @@ http_interactions:
       message: OK
     headers:
       Date:
-      - Tue, 16 Apr 2019 22:14:26 GMT
+      - Tue, 16 Apr 2019 22:36:32 GMT
       Server:
       - Apache/2.2.15
       X-Frame-Options:
@@ -1427,13 +1427,13 @@ http_interactions:
       - max-age=0, private, must-revalidate
       - max-age=31536000
       X-Request-Id:
-      - '09a89e95-0f63-42ba-a46e-15d27df136b5'
+      - c2549483-f0ca-4835-91c4-f3e3fdbc152f
       X-Runtime:
-      - '0.004447'
+      - '0.003429'
       Status:
       - 200 OK
       Expires:
-      - Wed, 15 Apr 2020 22:14:26 GMT
+      - Wed, 15 Apr 2020 22:36:32 GMT
       Transfer-Encoding:
       - chunked
       Content-Type:
@@ -1445,7 +1445,7 @@ http_interactions:
         Simon (NASA Goddard Space Flight Center), and M.H. Wong and A. Hsu (University
         of California, Berkeley)","news_name":"b","mission":"hubble","collection":"news","image_files":[{"file_url":"https://media.stsci.edu/uploads/image_file/image_attachment/31229/STSCI-H-p1906b-f-1028x543.png","file_size":258877,"width":1028,"height":543},{"file_url":"https://media.stsci.edu/uploads/image_file/image_attachment/31228/STSCI-H-p1906b-f-1028x543.tif","file_size":255662,"width":1028,"height":543}]}'
     http_version: 
-  recorded_at: Tue, 16 Apr 2019 22:14:26 GMT
+  recorded_at: Tue, 16 Apr 2019 22:36:32 GMT
 - request:
     method: get
     uri: http://hubblesite.org/api/v3/image/4322
@@ -1465,7 +1465,7 @@ http_interactions:
       message: OK
     headers:
       Date:
-      - Tue, 16 Apr 2019 22:14:26 GMT
+      - Tue, 16 Apr 2019 22:36:33 GMT
       Server:
       - Apache/2.2.15
       X-Frame-Options:
@@ -1484,13 +1484,13 @@ http_interactions:
       - max-age=0, private, must-revalidate
       - max-age=31536000
       X-Request-Id:
-      - cb36c891-64c7-4d63-ac78-f335775d11ee
+      - 1b9755b4-b36a-4cfc-ab5d-d1240d00fd3d
       X-Runtime:
-      - '0.004394'
+      - '0.003263'
       Status:
       - 200 OK
       Expires:
-      - Wed, 15 Apr 2020 22:14:26 GMT
+      - Wed, 15 Apr 2020 22:36:33 GMT
       Transfer-Encoding:
       - chunked
       Content-Type:
@@ -1504,7 +1504,7 @@ http_interactions:
         A. Simon (NASA Goddard Space Flight Center), and M. Wong and A. Hsu (University
         of California, Berkeley)","news_name":"c","mission":"hubble","collection":"news","image_files":[{"file_url":"https://media.stsci.edu/uploads/image_file/image_attachment/31230/STSCI-H-p1906c-f-514x514.tif","file_size":122246,"width":514,"height":514},{"file_url":"https://media.stsci.edu/uploads/image_file/image_attachment/31231/STSCI-H-p1906c-f-514x514.png","file_size":119056,"width":514,"height":514}]}'
     http_version: 
-  recorded_at: Tue, 16 Apr 2019 22:14:26 GMT
+  recorded_at: Tue, 16 Apr 2019 22:36:33 GMT
 - request:
     method: get
     uri: http://hubblesite.org/api/v3/image/4323
@@ -1524,7 +1524,7 @@ http_interactions:
       message: OK
     headers:
       Date:
-      - Tue, 16 Apr 2019 22:14:27 GMT
+      - Tue, 16 Apr 2019 22:36:33 GMT
       Server:
       - Apache/2.2.15
       X-Frame-Options:
@@ -1543,13 +1543,13 @@ http_interactions:
       - max-age=0, private, must-revalidate
       - max-age=31536000
       X-Request-Id:
-      - 3974859b-3496-4fad-a64a-79acf5a8b02d
+      - 3ae87783-26be-4587-8e08-3864cf8981a3
       X-Runtime:
-      - '0.003883'
+      - '0.003257'
       Status:
       - 200 OK
       Expires:
-      - Wed, 15 Apr 2020 22:14:27 GMT
+      - Wed, 15 Apr 2020 22:36:33 GMT
       Transfer-Encoding:
       - chunked
       Content-Type:
@@ -1563,7 +1563,7 @@ http_interactions:
         A. Simon (NASA Goddard Space Flight Center), and M. Wong and A. Hsu (University
         of California, Berkeley)","news_name":"d","mission":"hubble","collection":"news","image_files":[{"file_url":"https://media.stsci.edu/uploads/image_file/image_attachment/31233/STSCI-H-p1906d-f-514x514.png","file_size":124194,"width":514,"height":514},{"file_url":"https://media.stsci.edu/uploads/image_file/image_attachment/31232/STSCI-H-p1906d-f-514x514.tif","file_size":127846,"width":514,"height":514}]}'
     http_version: 
-  recorded_at: Tue, 16 Apr 2019 22:14:27 GMT
+  recorded_at: Tue, 16 Apr 2019 22:36:33 GMT
 - request:
     method: get
     uri: http://hubblesite.org/api/v3/image/4317
@@ -1583,7 +1583,7 @@ http_interactions:
       message: OK
     headers:
       Date:
-      - Tue, 16 Apr 2019 22:14:27 GMT
+      - Tue, 16 Apr 2019 22:36:33 GMT
       Server:
       - Apache/2.2.15
       X-Frame-Options:
@@ -1602,13 +1602,13 @@ http_interactions:
       - max-age=0, private, must-revalidate
       - max-age=31536000
       X-Request-Id:
-      - fcd65bb5-3cdb-4625-ba3c-bcb36fddc6cc
+      - 22373982-ae55-4e56-b19c-741efc6e86f4
       X-Runtime:
-      - '0.005058'
+      - '0.004473'
       Status:
       - 200 OK
       Expires:
-      - Wed, 15 Apr 2020 22:14:27 GMT
+      - Wed, 15 Apr 2020 22:36:33 GMT
       Transfer-Encoding:
       - chunked
       Content-Type:
@@ -1618,5 +1618,5 @@ http_interactions:
       string: !binary |-
         eyJuYW1lIjoiQmVkaW4gMSBpbiBOR0MgNjc1MiIsImRlc2NyaXB0aW9uIjoiXHUwMDNjc3Ryb25nXHUwMDNlRFdBUkYgR0FMQVhZIFNQT1RURUQgQkVISU5EIEdMT0JVTEFSIFNUQVIgQ0xVU1RFUlx1MDAzYy9zdHJvbmdcdTAwM2VcclxuXHJcblRoaXMgaXMgYSBIdWJibGUgU3BhY2UgVGVsZXNjb3BlIGltYWdlIG9mIGEgY29uY2VudHJhdGlvbiBvZiBzdGFycyB3aXRoaW4gdGhlIGdsb2J1bGFyIGNsdXN0ZXIgTkdDIDY3NTIuIEhpZGRlbiBhbW9uZyB0aGUgc3RhcnMgaXMgYW4gaW1hZ2Ugb2YgYSBiYWNrZ3JvdW5kIGdhbGF4eSB0aGF0IGlzIG11Y2ggZmFydGhlciBhd2F5LiBUaGUgZGltaW51dGl2ZSBnYWxheHksIG5hbWVkIGJ5IGl0cyBkaXNjb3ZlcmVycyBhcyBCZWRpbiAxLCBtZWFzdXJlcyBvbmx5IGFyb3VuZCAzLDAwMCBsaWdodC15ZWFycyBhdCBpdHMgZ3JlYXRlc3QgZXh0ZW50IOKAlCBhIGZyYWN0aW9uIG9mIHRoZSBzaXplIG9mIHRoZSBNaWxreSBXYXkuIE5vdCBvbmx5IGlzIGl0IHRpbnksIGJ1dCBpdCBpcyBhbHNvIGluY3JlZGlibHkgZmFpbnQuIFRoZXNlIHByb3BlcnRpZXMgbGVkIGFzdHJvbm9tZXJzIHRvIGNsYXNzaWZ5IGl0IGFzIGEgZHdhcmYgc3BoZXJvaWRhbCBnYWxheHkgdGhhdCBpcyBhcyBvbGQgYXMgdGhlIHVuaXZlcnNlLlxyXG4iLCJjcmVkaXRzIjoiXHUwMDNjYSBocmVmPVwiaHR0cDovL3d3dy5uYXNhLmdvdlwiXHUwMDNlTkFTQVx1MDAzYy9hXHUwMDNlLCBcdTAwM2NhIGhyZWY9XCJodHRwOi8vd3d3LnNwYWNldGVsZXNjb3BlLm9yZ1wiXHUwMDNlRVNBXHUwMDNjL2FcdTAwM2UsIGFuZCBMLiBCZWRpbiAoQXN0cm9ub21pY2FsIE9ic2VydmF0b3J5IG9mIFBhZHVhLCBJdGFseSkiLCJuZXdzX25hbWUiOiJhIiwibWlzc2lvbiI6Imh1YmJsZSIsImNvbGxlY3Rpb24iOiJuZXdzIiwiaW1hZ2VfZmlsZXMiOlt7ImZpbGVfdXJsIjoiaHR0cHM6Ly9tZWRpYS5zdHNjaS5lZHUvdXBsb2Fkcy9pbWFnZV9maWxlL2ltYWdlX2F0dGFjaG1lbnQvMzEyMTkvU1RTQ0ktSC1wMTkwOWEtZi0xMzU1eDEwMTcudGlmIiwiZmlsZV9zaXplIjoyOTg3MTA0LCJ3aWR0aCI6MTM1NSwiaGVpZ2h0IjoxMDE3fSx7ImZpbGVfdXJsIjoiaHR0cHM6Ly9tZWRpYS5zdHNjaS5lZHUvdXBsb2Fkcy9pbWFnZV9maWxlL2ltYWdlX2F0dGFjaG1lbnQvMzEyMjAvU1RTQ0ktSC1wMTkwOWEtZi0xMzU1eDEwMTcucG5nIiwiZmlsZV9zaXplIjoyNzAxNTA1LCJ3aWR0aCI6MTM1NSwiaGVpZ2h0IjoxMDE3fV19
     http_version: 
-  recorded_at: Tue, 16 Apr 2019 22:14:27 GMT
+  recorded_at: Tue, 16 Apr 2019 22:36:33 GMT
 recorded_with: VCR 4.0.0
