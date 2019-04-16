@@ -19,7 +19,7 @@ http_interactions:
       message: OK
     headers:
       Date:
-      - Tue, 16 Apr 2019 21:24:10 GMT
+      - Tue, 16 Apr 2019 22:14:24 GMT
       Server:
       - Apache/2.2.15
       X-Frame-Options:
@@ -40,13 +40,13 @@ http_interactions:
       - max-age=0, private, must-revalidate
       - max-age=31536000
       X-Request-Id:
-      - 621302d0-dce7-416d-837d-b3883f3b7dfa
+      - e3fa1908-7eec-4e9b-a2a4-9fdca483686b
       X-Runtime:
-      - '0.006374'
+      - '0.004321'
       Status:
       - 200 OK
       Expires:
-      - Wed, 15 Apr 2020 21:24:10 GMT
+      - Wed, 15 Apr 2020 22:14:24 GMT
       Transfer-Encoding:
       - chunked
       Content-Type:
@@ -77,7 +77,7 @@ http_interactions:
         Image of Uranus and Neptune","news_name":"b","collection":"news","mission":"hubble"},{"id":4322,"name":"Uranus","news_name":"c","collection":"news","mission":"hubble"},{"id":4323,"name":"Neptune","news_name":"d","collection":"news","mission":"hubble"},{"id":4317,"name":"Bedin
         1 in NGC 6752","news_name":"a","collection":"news","mission":"hubble"}]'
     http_version: 
-  recorded_at: Tue, 16 Apr 2019 21:24:10 GMT
+  recorded_at: Tue, 16 Apr 2019 22:14:24 GMT
 - request:
     method: get
     uri: http://hubblesite.org/api/v3/image/4381
@@ -97,7 +97,7 @@ http_interactions:
       message: OK
     headers:
       Date:
-      - Tue, 16 Apr 2019 21:24:10 GMT
+      - Tue, 16 Apr 2019 22:14:24 GMT
       Server:
       - Apache/2.2.15
       X-Frame-Options:
@@ -116,13 +116,13 @@ http_interactions:
       - max-age=0, private, must-revalidate
       - max-age=31536000
       X-Request-Id:
-      - 4ff76e10-7b6e-4ef3-a14c-d2a154973914
+      - dd023ec2-a369-42fe-bb50-6cc61c4e5b7c
       X-Runtime:
-      - '0.005152'
+      - '0.004637'
       Status:
       - 200 OK
       Expires:
-      - Wed, 15 Apr 2020 21:24:10 GMT
+      - Wed, 15 Apr 2020 22:14:24 GMT
       Transfer-Encoding:
       - chunked
       Content-Type:
@@ -138,7 +138,7 @@ http_interactions:
         \u003ca href=\"http://www.spacetelescope.org/\"\u003eESA\u003c/a\u003e, and
         A. Feild (\u003ca href=\"http://www.stsci.edu/\"\u003eSTScI\u003c/a\u003e)","news_name":"a","mission":"hubble","collection":"news","image_files":[{"file_url":"https://media.stsci.edu/uploads/image_file/image_attachment/31325/STSCI-H-p1924a-p433x250.png","file_size":196906,"width":433,"height":250},{"file_url":"https://media.stsci.edu/uploads/image_file/image_attachment/31326/STSCI-H-p1924a-z1000x388.png","file_size":891502,"width":1000,"height":388},{"file_url":"https://media.stsci.edu/uploads/image_file/image_attachment/31324/STSCI-H-p1924a-k1340x520.png","file_size":1453728,"width":1340,"height":520},{"file_url":"https://media.stsci.edu/uploads/image_file/image_attachment/31328/STSCI-H-p1924a-f4000x1552.png","file_size":2957519,"width":2000,"height":776},{"file_url":"https://media.stsci.edu/uploads/image_file/image_attachment/31327/STSCI-H-p1924a-f4000x1552.jpg","file_size":4215195,"width":4000,"height":1552}]}'
     http_version: 
-  recorded_at: Tue, 16 Apr 2019 21:24:10 GMT
+  recorded_at: Tue, 16 Apr 2019 22:14:24 GMT
 - request:
     method: get
     uri: http://hubblesite.org/api/v3/image/4379
@@ -158,7 +158,7 @@ http_interactions:
       message: OK
     headers:
       Date:
-      - Tue, 16 Apr 2019 21:24:10 GMT
+      - Tue, 16 Apr 2019 22:14:24 GMT
       Server:
       - Apache/2.2.15
       X-Frame-Options:
@@ -177,13 +177,13 @@ http_interactions:
       - max-age=0, private, must-revalidate
       - max-age=31536000
       X-Request-Id:
-      - 3897d89c-c1f3-4be6-9905-1f4b690c6ab5
+      - a7560fd0-5604-49a5-aa68-b908209d747e
       X-Runtime:
-      - '0.003398'
+      - '0.004431'
       Status:
       - 200 OK
       Expires:
-      - Wed, 15 Apr 2020 21:24:10 GMT
+      - Wed, 15 Apr 2020 22:14:24 GMT
       Transfer-Encoding:
       - chunked
       Content-Type:
@@ -193,7 +193,7 @@ http_interactions:
       string: !binary |-
         eyJuYW1lIjoiQXN0ZXJvaWQgKDY0NzgpIEdhdWx0IiwiZGVzY3JpcHRpb24iOiJcdTAwM2NzdHJvbmdcdTAwM2VIdWJibGUgV2l0bmVzc2VzIEFzdGVyb2lkIENvbWluZyBVbmdsdWVkXHUwMDNjL3N0cm9uZ1x1MDAzZVxyXG5cclxuVGhpcyBIdWJibGUgU3BhY2UgVGVsZXNjb3BlIGltYWdlIHJldmVhbHMgdGhlIGdyYWR1YWwgc2VsZi1kZXN0cnVjdGlvbiBvZiBhbiBhc3Rlcm9pZCwgd2hvc2UgZWplY3RlZCBkdXN0eSBtYXRlcmlhbCBoYXMgZm9ybWVkIHR3byBsb25nLCB0aGluLCBjb21ldC1saWtlIHRhaWxzLiBUaGUgbG9uZ2VyIHRhaWwgc3RyZXRjaGVzIG1vcmUgdGhhbiA1MDAsMDAwIG1pbGVzICg4MDAsMDAwIGtpbG9tZXRlcnMpIGFuZCBpcyByb3VnaGx5IDMsMDAwIG1pbGVzICg0LDgwMCBraWxvbWV0ZXJzKSB3aWRlLiBUaGUgc2hvcnRlciB0YWlsIGlzIGFib3V0IGEgcXVhcnRlciBhcyBsb25nLiBUaGUgc3RyZWFtZXJzIHdpbGwgZXZlbnR1YWxseSBkaXNwZXJzZSBpbnRvIHNwYWNlLlxyXG5cclxuVGhlc2UgdW51c3VhbCwgdHJhbnNpZW50IGZlYXR1cmVzIGFyZSBldmlkZW5jZSB0aGF0IHRoZSBhc3Rlcm9pZCwga25vd24gYXMgKDY0NzgpIEdhdWx0LCBpcyBiZWdpbm5pbmcgdG8gY29tZSBhcGFydCBieSBnZW50bHkgcHVmZmluZyBvZmYgbWF0ZXJpYWwgaW4gdHdvIHNlcGFyYXRlIGVwaXNvZGVzLiBIdWJibGUncyBzaGFycCB2aWV3IHJldmVhbHMgdGhhdCB0aGUgdGFpbHMgYXJlIG5hcnJvdyBzdHJlYW1lcnMsIHN1Z2dlc3RpbmcgdGhhdCB0aGUgZHVzdCB3YXMgcmVsZWFzZWQgaW4gc2hvcnQgYnVyc3RzLCBsYXN0aW5nIGFueXdoZXJlIGZyb20gYSBmZXcgaG91cnMgdG8gYSBmZXcgZGF5cy5cclxuXHJcblRoZSBmaXJzdCB0YWlsIHdhcyBzcG90dGVkIG9uIEphbi4gNSwgMjAxOTsgdGhlIHNlY29uZCBpbiBtaWQtSmFudWFyeS4gQW4gYW5hbHlzaXMgb2YgYm90aCB0YWlscyBzdWdnZXN0cyB0aGUgdHdvIGR1c3QgcmVsZWFzZXMgb2NjdXJyZWQgYXJvdW5kIE9jdC4gMjggYW5kIERlYy4gMzAsIDIwMTguXHJcblxyXG5Bc3Ryb25vbWVycyB0aGluayB0aGUgdGlueSBhc3Rlcm9pZCwgb25seSAyLjUgbWlsZXMgd2lkZSwgaXMgZGlzaW50ZWdyYXRpbmcgZHVlIHRvIHRoZSBsb25nLXRlcm0gc3VidGxlIGVmZmVjdHMgb2Ygc3VubGlnaHQsIHdoaWNoIGNhbiBzbG93bHkgc3BlZWQgdXAgaXRzIHNwaW4gdW50aWwgaXQgYmVnaW5zIHRvIHNoZWQgbWF0ZXJpYWwuIEluIGZhY3QsIHRoZSBzZWxmLWRlc3RydWN0aW9uIG1heSBoYXZlIGJlZW4gc3RhcnRlZCBtb3JlIHRoYW4gMTAwIG1pbGxpb24geWVhcnMgYWdvLiBQcmVzc3VyZSBmcm9tIHN1bmxpZ2h0IHZlcnkgc2xvd2x5IGJlZ2FuIHNwaW5uaW5nIHVwIHRoZSBkaW1pbnV0aXZlIGFzdGVyb2lkIGF0IGFuIGVzdGltYXRlZCByYXRlIG9mIDEgc2Vjb25kIGV2ZXJ5IDEwLDAwMCB5ZWFycy5cclxuXHJcblRoZSBhc3Rlcm9pZCBpcyBsb2NhdGVkIDIxNCBtaWxsaW9uIG1pbGVzIGZyb20gdGhlIFN1biwgYmV0d2VlbiB0aGUgb3JiaXRzIG9mIE1hcnMgYW5kIEp1cGl0ZXIuXHJcblxyXG5cclxuIiwiY3JlZGl0cyI6Ilx1MDAzY2EgaHJlZj1cImh0dHA6Ly93d3cubmFzYS5nb3YvXCJcdTAwM2VOQVNBXHUwMDNjL2FcdTAwM2UsIFx1MDAzY2EgaHJlZj1cImh0dHA6Ly93d3cuc3BhY2V0ZWxlc2NvcGUub3JnL1wiXHUwMDNlRVNBXHUwMDNjL2FcdTAwM2UsIEsuIE1lZWNoIGFuZCBKLiBLbGV5bmEgKFVuaXZlcnNpdHkgb2YgSGF3YWlpKSzCoGFuZCBPLiBIYWluYXV0IChFdXJvcGVhbiBTb3V0aGVybiBPYnNlcnZhdG9yeSkiLCJuZXdzX25hbWUiOiJhIiwibWlzc2lvbiI6Imh1YmJsZSIsImNvbGxlY3Rpb24iOiJuZXdzIiwiaW1hZ2VfZmlsZXMiOlt7ImZpbGVfdXJsIjoiaHR0cHM6Ly9tZWRpYS5zdHNjaS5lZHUvdXBsb2Fkcy9pbWFnZV9maWxlL2ltYWdlX2F0dGFjaG1lbnQvMzEzMTkvU1RTQ0ktSC1wMTkyMmEtei0xMDAweDU4Mi5wbmciLCJmaWxlX3NpemUiOjg4MjkwNSwid2lkdGgiOjEwMDAsImhlaWdodCI6NTgyfSx7ImZpbGVfdXJsIjoiaHR0cHM6Ly9tZWRpYS5zdHNjaS5lZHUvdXBsb2Fkcy9pbWFnZV9maWxlL2ltYWdlX2F0dGFjaG1lbnQvMzEzMTgvU1RTQ0ktSC1wMTkyMmEtbS0yMDAweDExNjQucG5nIiwiZmlsZV9zaXplIjo0NTIxODAyLCJ3aWR0aCI6MjAwMCwiaGVpZ2h0IjoxMTY0fSx7ImZpbGVfdXJsIjoiaHR0cHM6Ly9tZWRpYS5zdHNjaS5lZHUvdXBsb2Fkcy9pbWFnZV9maWxlL2ltYWdlX2F0dGFjaG1lbnQvMzEzMTcvU1RTQ0ktSC1wMTkyMmEtZi01MTkweDMwMjMucG5nIiwiZmlsZV9zaXplIjozNDg3MjAxNywid2lkdGgiOjUxOTAsImhlaWdodCI6MzAyM30seyJmaWxlX3VybCI6Imh0dHBzOi8vbWVkaWEuc3RzY2kuZWR1L3VwbG9hZHMvaW1hZ2VfZmlsZS9pbWFnZV9hdHRhY2htZW50LzMxMzE2L1NUU0NJLUgtcDE5MjJhLWYtNTE5MHgzMDIzLnRpZiIsImZpbGVfc2l6ZSI6MzgzMDY4MzIsIndpZHRoIjo1MTkwLCJoZWlnaHQiOjMwMjN9XX0=
     http_version: 
-  recorded_at: Tue, 16 Apr 2019 21:24:10 GMT
+  recorded_at: Tue, 16 Apr 2019 22:14:24 GMT
 - request:
     method: get
     uri: http://hubblesite.org/api/v3/image/4380
@@ -213,7 +213,7 @@ http_interactions:
       message: OK
     headers:
       Date:
-      - Tue, 16 Apr 2019 21:24:11 GMT
+      - Tue, 16 Apr 2019 22:14:24 GMT
       Server:
       - Apache/2.2.15
       X-Frame-Options:
@@ -232,13 +232,13 @@ http_interactions:
       - max-age=0, private, must-revalidate
       - max-age=31536000
       X-Request-Id:
-      - 5d4b2517-078c-47da-915b-146f55368cdc
+      - c6c7a80c-0044-4784-af68-3ac4ca487e8a
       X-Runtime:
-      - '0.004692'
+      - '0.004219'
       Status:
       - 200 OK
       Expires:
-      - Wed, 15 Apr 2020 21:24:11 GMT
+      - Wed, 15 Apr 2020 22:14:24 GMT
       Transfer-Encoding:
       - chunked
       Content-Type:
@@ -248,7 +248,7 @@ http_interactions:
       string: !binary |-
         eyJuYW1lIjoiQ29tcGFzcyBJbWFnZSBmb3IgQXN0ZXJvaWQgKDY0NzgpIEdhdWx0IiwiY3JlZGl0cyI6Ilx1MDAzY2EgaHJlZj1cImh0dHA6Ly93d3cubmFzYS5nb3YvXCJcdTAwM2VOQVNBXHUwMDNjL2FcdTAwM2UsIFx1MDAzY2EgaHJlZj1cImh0dHA6Ly93d3cuc3BhY2V0ZWxlc2NvcGUub3JnL1wiXHUwMDNlRVNBXHUwMDNjL2FcdTAwM2UsIEsuIE1lZWNoIGFuZCBKLiBLbGV5bmEgKFVuaXZlcnNpdHkgb2YgSGF3YWlpKSzCoGFuZCBPLiBIYWluYXV0IChFdXJvcGVhbiBTb3V0aGVybiBPYnNlcnZhdG9yeSkiLCJuZXdzX25hbWUiOiJiIiwibWlzc2lvbiI6Imh1YmJsZSIsImNvbGxlY3Rpb24iOiJuZXdzIiwiaW1hZ2VfZmlsZXMiOlt7ImZpbGVfdXJsIjoiaHR0cHM6Ly9tZWRpYS5zdHNjaS5lZHUvdXBsb2Fkcy9pbWFnZV9maWxlL2ltYWdlX2F0dGFjaG1lbnQvMzEzMjMvU1RTQ0ktSC1wMTkyMmItei0xMDAweDU4Mi5wbmciLCJmaWxlX3NpemUiOjkwMzg2Mywid2lkdGgiOjEwMDAsImhlaWdodCI6NTgyfSx7ImZpbGVfdXJsIjoiaHR0cHM6Ly9tZWRpYS5zdHNjaS5lZHUvdXBsb2Fkcy9pbWFnZV9maWxlL2ltYWdlX2F0dGFjaG1lbnQvMzEzMjIvU1RTQ0ktSC1wMTkyMmItbS0yMDAweDExNjQucG5nIiwiZmlsZV9zaXplIjo0NTQ4NDU1LCJ3aWR0aCI6MjAwMCwiaGVpZ2h0IjoxMTY0fSx7ImZpbGVfdXJsIjoiaHR0cHM6Ly9tZWRpYS5zdHNjaS5lZHUvdXBsb2Fkcy9pbWFnZV9maWxlL2ltYWdlX2F0dGFjaG1lbnQvMzEzMjEvU1RTQ0ktSC1wMTkyMmItZi01MTkweDMwMjMucG5nIiwiZmlsZV9zaXplIjozNDgwMzg1Mywid2lkdGgiOjUxOTAsImhlaWdodCI6MzAyM30seyJmaWxlX3VybCI6Imh0dHBzOi8vbWVkaWEuc3RzY2kuZWR1L3VwbG9hZHMvaW1hZ2VfZmlsZS9pbWFnZV9hdHRhY2htZW50LzMxMzIwL1NUU0NJLUgtcDE5MjJiLWYtNTE5MHgzMDIzLnRpZiIsImZpbGVfc2l6ZSI6MzgyNDU0NzIsIndpZHRoIjo1MTkwLCJoZWlnaHQiOjMwMjN9XX0=
     http_version: 
-  recorded_at: Tue, 16 Apr 2019 21:24:11 GMT
+  recorded_at: Tue, 16 Apr 2019 22:14:24 GMT
 - request:
     method: get
     uri: http://hubblesite.org/api/v3/image/4376
@@ -268,7 +268,7 @@ http_interactions:
       message: OK
     headers:
       Date:
-      - Tue, 16 Apr 2019 21:24:11 GMT
+      - Tue, 16 Apr 2019 22:14:24 GMT
       Server:
       - Apache/2.2.15
       X-Frame-Options:
@@ -287,13 +287,13 @@ http_interactions:
       - max-age=0, private, must-revalidate
       - max-age=31536000
       X-Request-Id:
-      - ccf6098e-677c-4e6e-8378-4487c1b0fb1d
+      - bbdfc159-1242-4a35-933c-3447a190a3db
       X-Runtime:
-      - '0.003688'
+      - '0.004086'
       Status:
       - 200 OK
       Expires:
-      - Wed, 15 Apr 2020 21:24:11 GMT
+      - Wed, 15 Apr 2020 22:14:24 GMT
       Transfer-Encoding:
       - chunked
       Content-Type:
@@ -309,5 +309,1314 @@ http_interactions:
         href=\"http://www.nasa.gov/\"\u003eNASA\u003c/a\u003e, \u003ca href=\"http://www.spacetelescope.org/\"\u003eESA\u003c/a\u003e,
         and J. Lotz, M. Mountain, A. Koekemoer, and the HFF Team (STScI)","news_name":"a","mission":"james_webb","collection":"news","image_files":[{"file_url":"https://media.stsci.edu/uploads/image_file/image_attachment/31306/STSCI-J-p1920a-z-896x1000.png","file_size":1528943,"width":896,"height":1000},{"file_url":"https://media.stsci.edu/uploads/image_file/image_attachment/31305/STSCI-J-p1920a-m-1793x2000.png","file_size":6636881,"width":1793,"height":2000},{"file_url":"https://media.stsci.edu/uploads/image_file/image_attachment/31304/STSCI-J-p1920a-f-3909x4360.png","file_size":31778769,"width":3909,"height":4360},{"file_url":"https://media.stsci.edu/uploads/image_file/image_attachment/31303/STSCI-J-p1920a-f-3909x4360.tif","file_size":41450432,"width":3909,"height":4360}]}'
     http_version: 
-  recorded_at: Tue, 16 Apr 2019 21:24:11 GMT
+  recorded_at: Tue, 16 Apr 2019 22:14:24 GMT
+- request:
+    method: get
+    uri: http://hubblesite.org/api/v3/image/4377
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      User-Agent:
+      - Faraday v0.15.4
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Accept:
+      - "*/*"
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Tue, 16 Apr 2019 22:14:25 GMT
+      Server:
+      - Apache/2.2.15
+      X-Frame-Options:
+      - SAMEORIGIN
+      X-Xss-Protection:
+      - 1; mode=block
+      X-Content-Type-Options:
+      - nosniff
+      X-Total-Count:
+      - '1'
+      Stsci-Ml-Item-Count:
+      - '1'
+      Etag:
+      - W/"0096f043e3ccac2be7c5a927cd2ddfcf"
+      Cache-Control:
+      - max-age=0, private, must-revalidate
+      - max-age=31536000
+      X-Request-Id:
+      - 94bb6797-0415-4e28-8c0e-273c695c544e
+      X-Runtime:
+      - '0.004255'
+      Status:
+      - 200 OK
+      Expires:
+      - Wed, 15 Apr 2020 22:14:25 GMT
+      Transfer-Encoding:
+      - chunked
+      Content-Type:
+      - application/json; charset=utf-8
+    body:
+      encoding: UTF-8
+      string: '{"name":"Gravitational Lensing","description":"This diagram illustrates
+        how gravitational lensing by foreground galaxies influences the appearance
+        of far more distant background galaxies. These far-off galaxies that might
+        otherwise be invisible appear due to lensing effects. The plane at far left
+        contains very distant, background galaxies. The middle plane represents foreground
+        galaxies; their gravity amplifies the brightness of the background galaxies.
+        The right plane shows how the field would look from Earth with the effects
+        of gravitational lensing added.","credits":"\u003ca href=\"http://www.nasa.gov/\"\u003eNASA\u003c/a\u003e,
+        \u003ca href=\"http://www.spacetelescope.org/\"\u003eESA\u003c/a\u003e, and
+        Z. Levay and A. Feild (\u003ca href=\"http://www.stsci.edu/\"\u003eSTScI\u003c/a\u003e)","news_name":"b","mission":"james_webb","collection":"news","image_files":[{"file_url":"https://media.stsci.edu/uploads/image_file/image_attachment/31310/STSCI-J-p1920b-z-1000x800.png","file_size":970569,"width":1000,"height":800},{"file_url":"https://media.stsci.edu/uploads/image_file/image_attachment/31309/STSCI-J-p1920b-m-2000x1600.png","file_size":3915128,"width":2000,"height":1600},{"file_url":"https://media.stsci.edu/uploads/image_file/image_attachment/31308/STSCI-J-p1920b-f-3000x2400.png","file_size":7404103,"width":3000,"height":2400},{"file_url":"https://media.stsci.edu/uploads/image_file/image_attachment/31307/STSCI-J-p1920b-f-3000x2400.tif","file_size":8721028,"width":3000,"height":2400}]}'
+    http_version: 
+  recorded_at: Tue, 16 Apr 2019 22:14:25 GMT
+- request:
+    method: get
+    uri: http://hubblesite.org/api/v3/image/4378
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      User-Agent:
+      - Faraday v0.15.4
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Accept:
+      - "*/*"
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Tue, 16 Apr 2019 22:14:25 GMT
+      Server:
+      - Apache/2.2.15
+      X-Frame-Options:
+      - SAMEORIGIN
+      X-Xss-Protection:
+      - 1; mode=block
+      X-Content-Type-Options:
+      - nosniff
+      X-Total-Count:
+      - '1'
+      Stsci-Ml-Item-Count:
+      - '1'
+      Etag:
+      - W/"6c40fb20836761b496a16f1c7b550968"
+      Cache-Control:
+      - max-age=0, private, must-revalidate
+      - max-age=31536000
+      X-Request-Id:
+      - 598c02cf-97d4-4251-984e-2b63cb7d2192
+      X-Runtime:
+      - '0.003824'
+      Status:
+      - 200 OK
+      Expires:
+      - Wed, 15 Apr 2020 22:14:25 GMT
+      Transfer-Encoding:
+      - chunked
+      Content-Type:
+      - application/json; charset=utf-8
+    body:
+      encoding: UTF-8
+      string: '{"name":"What is Cosmological Redshift?","description":"The universe
+        is expanding, and that expansion stretches light traveling through space in
+        a phenomenon known as cosmological redshift. The greater the redshift, the
+        greater the distance the light has traveled. As a result, telescopes with
+        infrared detectors are needed to see light from the first, most distant galaxies.\r\n\r\n\r\n","credits":"\u003ca
+        href=\"http://www.nasa.gov/\"\u003eNASA\u003c/a\u003e, \u003ca href=\"http://www.spacetelescope.org/\"\u003eESA\u003c/a\u003e,
+        and L. Hustak (\u003ca href=\"http://www.stsci.edu/\"\u003eSTScI\u003c/a\u003e)","news_name":"c","mission":"james_webb","collection":"news","image_files":[{"file_url":"https://media.stsci.edu/uploads/image_file/image_attachment/31314/STSCI-J-p1920c-z-440x1000.png","file_size":284895,"width":440,"height":1000},{"file_url":"https://media.stsci.edu/uploads/image_file/image_attachment/31313/STSCI-J-p1920c-m-880x2000.png","file_size":750502,"width":880,"height":2000},{"file_url":"https://media.stsci.edu/uploads/image_file/image_attachment/31312/STSCI-J-p1920c-f-8001x18184.png","file_size":7717541,"width":8001,"height":18184},{"file_url":"https://media.stsci.edu/uploads/image_file/image_attachment/31311/STSCI-J-p1920c-f-8001x18184.tif","file_size":11593664,"width":8001,"height":18184}]}'
+    http_version: 
+  recorded_at: Tue, 16 Apr 2019 22:14:25 GMT
+- request:
+    method: get
+    uri: http://hubblesite.org/api/v3/image/4369
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      User-Agent:
+      - Faraday v0.15.4
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Accept:
+      - "*/*"
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Tue, 16 Apr 2019 22:14:25 GMT
+      Server:
+      - Apache/2.2.15
+      X-Frame-Options:
+      - SAMEORIGIN
+      X-Xss-Protection:
+      - 1; mode=block
+      X-Content-Type-Options:
+      - nosniff
+      X-Total-Count:
+      - '1'
+      Stsci-Ml-Item-Count:
+      - '1'
+      Etag:
+      - W/"6b997070ed4e0f1f54be8d4b7d981fea"
+      Cache-Control:
+      - max-age=0, private, must-revalidate
+      - max-age=31536000
+      X-Request-Id:
+      - 5cdf6adf-4e3f-4954-91ba-103b3c67abc2
+      X-Runtime:
+      - '0.003912'
+      Status:
+      - 200 OK
+      Expires:
+      - Wed, 15 Apr 2020 22:14:25 GMT
+      Transfer-Encoding:
+      - chunked
+      Content-Type:
+      - application/json; charset=utf-8
+    body:
+      encoding: UTF-8
+      string: '{"name":"Globular Clusters around Milky Way","description":"This illustration
+        shows the fundamental architecture of our island city of stars, the Milky
+        Way galaxy: a spiral disk, central bulge, and diffuse halo of stars and globular
+        star clusters. Not shown is the vast halo of dark matter surrounding our galaxy.
+        A comprehensive survey that combines the observing prowess of both the Hubble
+        Space Telescope and the European Space Agency''s Gaia satellite measured the
+        total mass of our galaxy at 1.5 trillion solar masses. Only a few percent
+        of the estimated 200 billion stars in our galaxy contributes to this total.
+        Most of the rest is locked up in invisible dark matter. The precision of Hubble
+        and Gaia each allowed astronomers to measure the movement of the isolated
+        spherical islands called globular star clusters. The more massive a galaxy,
+        the faster its clusters move under the pull of gravity. And, this allows for
+        the mass of our galaxy to be calculated.\r\n","credits":"\u003ca href=\"http://www.nasa.gov\"\u003eNASA\u003c/a\u003e,
+        \u003ca href=\"http://www.spacetelescope.org\"\u003eESA\u003c/a\u003e, and
+        A. Feild (\u003ca href=\"http://www.stsci.edu\"\u003eSTScI\u003c/a\u003e)","news_name":"a","mission":"hubble","collection":"news","image_files":[{"file_url":"https://media.stsci.edu/uploads/image_file/image_attachment/31292/STSCI-H-p1916a-10x8.pdf","file_size":25163687,"width":720,"height":576},{"file_url":"https://media.stsci.edu/uploads/image_file/image_attachment/31293/STSCI-H-p1916a-z1000x750.png","file_size":957277,"width":1000,"height":750},{"file_url":"https://media.stsci.edu/uploads/image_file/image_attachment/31295/STSCI-H-p1916a-m2000x1500.png","file_size":3156826,"width":2000,"height":1500},{"file_url":"https://media.stsci.edu/uploads/image_file/image_attachment/31291/STSCI-H-p1916a-f3600x2700.jpg","file_size":3646304,"width":3600,"height":2700},{"file_url":"https://media.stsci.edu/uploads/image_file/image_attachment/31290/STSCI-H-p1916a-f3600x2700.tif","file_size":29200232,"width":3600,"height":2700}]}'
+    http_version: 
+  recorded_at: Tue, 16 Apr 2019 22:14:25 GMT
+- request:
+    method: get
+    uri: http://hubblesite.org/api/v3/image/4370
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      User-Agent:
+      - Faraday v0.15.4
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Accept:
+      - "*/*"
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Tue, 16 Apr 2019 22:14:25 GMT
+      Server:
+      - Apache/2.2.15
+      X-Frame-Options:
+      - SAMEORIGIN
+      X-Xss-Protection:
+      - 1; mode=block
+      X-Content-Type-Options:
+      - nosniff
+      X-Total-Count:
+      - '1'
+      Stsci-Ml-Item-Count:
+      - '1'
+      Etag:
+      - W/"90c11c653c9cb0f608312a75bf82c4b0"
+      Cache-Control:
+      - max-age=0, private, must-revalidate
+      - max-age=31536000
+      X-Request-Id:
+      - 96761a56-3704-4000-a370-5d27b7add95c
+      X-Runtime:
+      - '0.004702'
+      Status:
+      - 200 OK
+      Expires:
+      - Wed, 15 Apr 2020 22:14:25 GMT
+      Transfer-Encoding:
+      - chunked
+      Content-Type:
+      - application/json; charset=utf-8
+    body:
+      encoding: UTF-8
+      string: '{"name":"Hubble Space Telescope in Orbit","description":"This is a
+        photograph of the Hubble Space Telescope in orbit.","credits":"\u003ca href=\"http://www.nasa.gov\"\u003eNASA\u003c/a\u003e","news_name":"a","mission":"hubble","collection":"news","image_files":[{"file_url":"https://media.stsci.edu/uploads/image_file/image_attachment/31297/STScI-H-p1923a-f3072x2040.tiff","file_size":18842624,"width":3072,"height":2040},{"file_url":"https://media.stsci.edu/uploads/image_file/image_attachment/31296/STScI-H-p1923a-f3072x2040.jpg","file_size":2051306,"width":3072,"height":2040}]}'
+    http_version: 
+  recorded_at: Tue, 16 Apr 2019 22:14:25 GMT
+- request:
+    method: get
+    uri: http://hubblesite.org/api/v3/image/4368
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      User-Agent:
+      - Faraday v0.15.4
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Accept:
+      - "*/*"
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Tue, 16 Apr 2019 22:14:25 GMT
+      Server:
+      - Apache/2.2.15
+      X-Frame-Options:
+      - SAMEORIGIN
+      X-Xss-Protection:
+      - 1; mode=block
+      X-Content-Type-Options:
+      - nosniff
+      X-Total-Count:
+      - '1'
+      Stsci-Ml-Item-Count:
+      - '1'
+      Etag:
+      - W/"78fb365c85c872a3deb7c0d94b901b6c"
+      Cache-Control:
+      - max-age=0, private, must-revalidate
+      - max-age=31536000
+      X-Request-Id:
+      - fda9254c-720c-40d3-ad91-bdf2963ef296
+      X-Runtime:
+      - '0.004040'
+      Status:
+      - 200 OK
+      Expires:
+      - Wed, 15 Apr 2020 22:14:25 GMT
+      Transfer-Encoding:
+      - chunked
+      Content-Type:
+      - application/json; charset=utf-8
+    body:
+      encoding: UTF-8
+      string: '{"name":"Hubble Space Telescope in Orbit","description":"This is a
+        photograph of the Hubble Space Telescope in orbit.","credits":"\u003ca href=\"http://www.nasa.gov\"\u003eNASA\u003c/a\u003e","news_name":"a","mission":"hubble","collection":"news","image_files":[{"file_url":"https://media.stsci.edu/uploads/image_file/image_attachment/31289/STScI-H-p1921a-f3072x2040.tiff","file_size":18842624,"width":3072,"height":2040},{"file_url":"https://media.stsci.edu/uploads/image_file/image_attachment/31288/STScI-H-p1921a-f3072x2040.jpg","file_size":2051306,"width":3072,"height":2040}]}'
+    http_version: 
+  recorded_at: Tue, 16 Apr 2019 22:14:25 GMT
+- request:
+    method: get
+    uri: http://hubblesite.org/api/v3/image/4324
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      User-Agent:
+      - Faraday v0.15.4
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Accept:
+      - "*/*"
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Tue, 16 Apr 2019 22:14:25 GMT
+      Server:
+      - Apache/2.2.15
+      X-Frame-Options:
+      - SAMEORIGIN
+      X-Xss-Protection:
+      - 1; mode=block
+      X-Content-Type-Options:
+      - nosniff
+      X-Total-Count:
+      - '1'
+      Stsci-Ml-Item-Count:
+      - '1'
+      Etag:
+      - W/"a0cf16939a25e8d424e0b64cf7966eef"
+      Cache-Control:
+      - max-age=0, private, must-revalidate
+      - max-age=31536000
+      X-Request-Id:
+      - 5d32eba2-fc58-4660-bf14-161af61382ef
+      X-Runtime:
+      - '0.003925'
+      Status:
+      - 200 OK
+      Expires:
+      - Wed, 15 Apr 2020 22:14:25 GMT
+      Transfer-Encoding:
+      - chunked
+      Content-Type:
+      - application/json; charset=utf-8
+    body:
+      encoding: UTF-8
+      string: '{"name":"Multiwavelength View of Supernova 1987A","description":"Astronomers
+        combined observations from three different observatories (Atacama Large Millimeter/submillimeter
+        Array, red; Hubble, green; Chandra X-ray Observatory, blue) to produce this
+        colorful, multiwavelength image of the intricate remains of Supernova 1987A.","credits":"Image
+        credit: \u003ca href=\"http://www.nasa.gov/\"\u003eNASA\u003c/a\u003e, \u003ca
+        href=\"http://www.spacetelescope.org/\"\u003eESA\u003c/a\u003e, and A. Angelich
+        (NRAO/AUI/NSF)\r\nHubble credit: \u003ca href=\"http://www.nasa.gov/\"\u003eNASA\u003c/a\u003e,
+        \u003ca href=\"http://www.spacetelescope.org/\"\u003eESA\u003c/a\u003e, and
+        R. Kirshner (Harvard-Smithsonian Center for Astrophysics and Gordon and Betty
+        Moore Foundation)\r\nChandra credit: \u003ca href=\"http://www.nasa.gov/\"\u003eNASA\u003c/a\u003e/CXC/Penn
+        State/K. Frank et al.\r\nALMA credit: ALMA (ESO/NAOJ/NRAO) and R. Indebetouw
+        (NRAO/AUI/NSF)","news_name":"a","mission":"james_webb","collection":"news","image_files":[{"file_url":"https://media.stsci.edu/uploads/image_file/image_attachment/31238/STSCI-J-p1913a-f2000x2000.tif","file_size":819084,"width":2000,"height":2000},{"file_url":"https://media.stsci.edu/uploads/image_file/image_attachment/31237/STSCI-J-p1913a-m2000x2000.png","file_size":775868,"width":2000,"height":2000}]}'
+    http_version: 
+  recorded_at: Tue, 16 Apr 2019 22:14:25 GMT
+- request:
+    method: get
+    uri: http://hubblesite.org/api/v3/image/4359
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      User-Agent:
+      - Faraday v0.15.4
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Accept:
+      - "*/*"
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Tue, 16 Apr 2019 22:14:25 GMT
+      Server:
+      - Apache/2.2.15
+      X-Frame-Options:
+      - SAMEORIGIN
+      X-Xss-Protection:
+      - 1; mode=block
+      X-Content-Type-Options:
+      - nosniff
+      X-Total-Count:
+      - '1'
+      Stsci-Ml-Item-Count:
+      - '1'
+      Etag:
+      - W/"21862a2e49d1796c6c8ee9aa969ef2e2"
+      Cache-Control:
+      - max-age=0, private, must-revalidate
+      - max-age=31536000
+      X-Request-Id:
+      - ed0ea2df-3606-40ca-ab12-4882c893bbb1
+      X-Runtime:
+      - '0.004389'
+      Status:
+      - 200 OK
+      Expires:
+      - Wed, 15 Apr 2020 22:14:25 GMT
+      Transfer-Encoding:
+      - chunked
+      Content-Type:
+      - application/json; charset=utf-8
+    body:
+      encoding: UTF-8
+      string: '{"name":"Massive Stars: Engines of Creation Infographic","description":"This
+        illustration demonstrates how a massive star (at least 8 times bigger than
+        our sun) fuses heavier and heavier elements until exploding as a supernova
+        and spreading those elements throughout space.","credits":"\u003ca href=\"http://www.nasa.gov/\"\u003eNASA\u003c/a\u003e,
+        \u003ca href=\"http://www.spacetelescope.org/\"\u003eESA\u003c/a\u003e, and
+        L. Hustak (\u003ca href=\"http://www.stsci.edu/\"\u003eSTScI\u003c/a\u003e)","news_name":"b","mission":"james_webb","collection":"news","image_files":[{"file_url":"https://media.stsci.edu/uploads/image_file/image_attachment/31277/20190222-Webb-SupernovaInfographic-1080p-300dpi-Final.png","file_size":14385290,"width":8001,"height":4501}]}'
+    http_version: 
+  recorded_at: Tue, 16 Apr 2019 22:14:25 GMT
+- request:
+    method: get
+    uri: http://hubblesite.org/api/v3/image/4358
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      User-Agent:
+      - Faraday v0.15.4
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Accept:
+      - "*/*"
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Tue, 16 Apr 2019 22:14:25 GMT
+      Server:
+      - Apache/2.2.15
+      X-Frame-Options:
+      - SAMEORIGIN
+      X-Xss-Protection:
+      - 1; mode=block
+      X-Content-Type-Options:
+      - nosniff
+      X-Total-Count:
+      - '1'
+      Stsci-Ml-Item-Count:
+      - '1'
+      Etag:
+      - W/"5a68adad289740d3653a6d282da56c73"
+      Cache-Control:
+      - max-age=0, private, must-revalidate
+      - max-age=31536000
+      X-Request-Id:
+      - f0bfd324-5229-4196-b13d-f1b828d5a305
+      X-Runtime:
+      - '0.004379'
+      Status:
+      - 200 OK
+      Expires:
+      - Wed, 15 Apr 2020 22:14:25 GMT
+      Transfer-Encoding:
+      - chunked
+      Content-Type:
+      - application/json; charset=utf-8
+    body:
+      encoding: UTF-8
+      string: '{"name":"Redshift of the First Stars ","description":"Since the first
+        stars formed more than 13.4 billion years ago, their light has stretched with
+        the expansion of space, becoming dimmer and redder over time. The James Webb
+        Space Telescope is designed to detect the very dim light in the red and infrared
+        part of the electromagnetic spectrum. ","credits":"\u003ca href=\"http://www.stsci.edu/\"\u003eSTScI\u003c/a\u003e","mission":"james_webb","collection":"webb_non_news_assets","image_files":[{"file_url":"https://media.stsci.edu/uploads/image_file/image_attachment/31276/STScI-H-first-stars-redshift-2016x1111_.jpg","file_size":507409,"width":2017,"height":1111}]}'
+    http_version: 
+  recorded_at: Tue, 16 Apr 2019 22:14:25 GMT
+- request:
+    method: get
+    uri: http://hubblesite.org/api/v3/image/4357
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      User-Agent:
+      - Faraday v0.15.4
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Accept:
+      - "*/*"
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Tue, 16 Apr 2019 22:14:25 GMT
+      Server:
+      - Apache/2.2.15
+      X-Frame-Options:
+      - SAMEORIGIN
+      X-Xss-Protection:
+      - 1; mode=block
+      X-Content-Type-Options:
+      - nosniff
+      X-Total-Count:
+      - '1'
+      Stsci-Ml-Item-Count:
+      - '1'
+      Etag:
+      - W/"58940e2d60757adce9c07a9291aa9ef3"
+      Cache-Control:
+      - max-age=0, private, must-revalidate
+      - max-age=31536000
+      X-Request-Id:
+      - 744be903-8f78-4bf5-9f4d-c03f53ad4286
+      X-Runtime:
+      - '0.003738'
+      Status:
+      - 200 OK
+      Expires:
+      - Wed, 15 Apr 2020 22:14:25 GMT
+      Transfer-Encoding:
+      - chunked
+      Content-Type:
+      - application/json; charset=utf-8
+    body:
+      encoding: UTF-8
+      string: '{"name":"Ionization By Llight From the First Stars","description":"Ultraviolet
+        light is a type of ionizing radiation. It has the ability to separate electrons
+        from atomic nuclei, converting neutral atoms into charged particles called
+        ions. UV light from the first stars was absorbed by hydrogen atoms, causing
+        them to be ionized.","credits":"\u003ca href=\"http://www.stsci.edu/\"\u003eSTScI\u003c/a\u003e","mission":"james_webb","collection":"webb_non_news_assets","image_files":[{"file_url":"https://media.stsci.edu/uploads/image_file/image_attachment/31275/STScI-H-first-stars-Ionization-2016x1111.jpg","file_size":280649,"width":2016,"height":1111}]}'
+    http_version: 
+  recorded_at: Tue, 16 Apr 2019 22:14:25 GMT
+- request:
+    method: get
+    uri: http://hubblesite.org/api/v3/image/4356
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      User-Agent:
+      - Faraday v0.15.4
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Accept:
+      - "*/*"
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Tue, 16 Apr 2019 22:14:25 GMT
+      Server:
+      - Apache/2.2.15
+      X-Frame-Options:
+      - SAMEORIGIN
+      X-Xss-Protection:
+      - 1; mode=block
+      X-Content-Type-Options:
+      - nosniff
+      X-Total-Count:
+      - '1'
+      Stsci-Ml-Item-Count:
+      - '1'
+      Etag:
+      - W/"de6f77297e9a19706f29dad7434c1b8d"
+      Cache-Control:
+      - max-age=0, private, must-revalidate
+      - max-age=31536000
+      X-Request-Id:
+      - 221ba7e9-aefe-4b24-be3b-5f04017a610c
+      X-Runtime:
+      - '0.004635'
+      Status:
+      - 200 OK
+      Expires:
+      - Wed, 15 Apr 2020 22:14:25 GMT
+      Transfer-Encoding:
+      - chunked
+      Content-Type:
+      - application/json; charset=utf-8
+    body:
+      encoding: ASCII-8BIT
+      string: !binary |-
+        eyJuYW1lIjoiVGVtcGVyYXR1cmUsIEJyaWdodG5lc3MsIGFuZCBDb2xvciBvZiB0aGUgRmlyc3QgU3RhcnMiLCJkZXNjcmlwdGlvbiI6Ik1hc3NpdmUgUG9wdWxhdGlvbiBJSUkgc3RhcnMgY291bGQgaGF2ZSBiZWVuIGFzIGhvdCBhcyAxMDAsMDAwIGtlbHZpbuKAlG1vcmUgdGhhbiA5MCwwMDAgZGVncmVlcyBob3R0ZXIgdGhhbiB0aGUgU3VuLiBUaGUgaG90dGVyIGFueSBvYmplY3QgaXMsIHRoZSBtb3JlIGVsZWN0cm9tYWduZXRpYyByYWRpYXRpb24gKGxpZ2h0KSBpdCBnaXZlcyBvZmYsIGFuZCB0aGUgaGlnaGVyIGVuZXJneSB0aGUgcmFkaWF0aW9uIGlzLiBQb3B1bGF0aW9uIElJSSBzdGFycyB3b3VsZCBoYXZlIGJlZW4gbXVjaCBicmlnaHRlciB0aGFuIHRoZSBTdW4sIGdpdmluZyBvZmYgbW9zdGx5IGhpZ2gtZW5lcmd5IHVsdHJhdmlvbGV0IHJhdGhlciB0aGFuIHZpc2libGUgbGlnaHQuICIsImNyZWRpdHMiOiJcdTAwM2NhIGhyZWY9XCJodHRwOi8vd3d3LnN0c2NpLmVkdS9cIlx1MDAzZVNUU2NJXHUwMDNjL2FcdTAwM2UiLCJtaXNzaW9uIjoiamFtZXNfd2ViYiIsImNvbGxlY3Rpb24iOiJ3ZWJiX25vbl9uZXdzX2Fzc2V0cyIsImltYWdlX2ZpbGVzIjpbeyJmaWxlX3VybCI6Imh0dHBzOi8vbWVkaWEuc3RzY2kuZWR1L3VwbG9hZHMvaW1hZ2VfZmlsZS9pbWFnZV9hdHRhY2htZW50LzMxMjc0L1NUU2NJLUgtZmlyc3Qtc3RhcnMtVGVtcC1MdW1pbm9zaXR5LTIwMTZ4MTExMS5qcGciLCJmaWxlX3NpemUiOjQ1OTUyNiwid2lkdGgiOjIwMTYsImhlaWdodCI6MTExMX1dfQ==
+    http_version: 
+  recorded_at: Tue, 16 Apr 2019 22:14:26 GMT
+- request:
+    method: get
+    uri: http://hubblesite.org/api/v3/image/4355
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      User-Agent:
+      - Faraday v0.15.4
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Accept:
+      - "*/*"
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Tue, 16 Apr 2019 22:14:26 GMT
+      Server:
+      - Apache/2.2.15
+      X-Frame-Options:
+      - SAMEORIGIN
+      X-Xss-Protection:
+      - 1; mode=block
+      X-Content-Type-Options:
+      - nosniff
+      X-Total-Count:
+      - '1'
+      Stsci-Ml-Item-Count:
+      - '1'
+      Etag:
+      - W/"cf9c2ea5c312ccf0a7d9e6c6b5e107e7"
+      Cache-Control:
+      - max-age=0, private, must-revalidate
+      - max-age=31536000
+      X-Request-Id:
+      - c428d1a8-eb85-4a34-b982-b11811a7b35b
+      X-Runtime:
+      - '0.003964'
+      Status:
+      - 200 OK
+      Expires:
+      - Wed, 15 Apr 2020 22:14:26 GMT
+      Transfer-Encoding:
+      - chunked
+      Content-Type:
+      - application/json; charset=utf-8
+    body:
+      encoding: UTF-8
+      string: '{"name":"Lifespan of the First Stars","description":"A star 60 times
+        the mass of the Sun would shine for less than a million years. If the first
+        stars were all this massive, they would have burned out long ago.","credits":"\u003ca
+        href=\"http://www.stsci.edu/\"\u003eSTScI\u003c/a\u003e","mission":"james_webb","collection":"webb_non_news_assets","image_files":[{"file_url":"https://media.stsci.edu/uploads/image_file/image_attachment/31273/STScI-H-first-stars-LifeSpan-4117x1111.jpg","file_size":456041,"width":4117,"height":1111}]}'
+    http_version: 
+  recorded_at: Tue, 16 Apr 2019 22:14:26 GMT
+- request:
+    method: get
+    uri: http://hubblesite.org/api/v3/image/4354
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      User-Agent:
+      - Faraday v0.15.4
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Accept:
+      - "*/*"
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Tue, 16 Apr 2019 22:14:26 GMT
+      Server:
+      - Apache/2.2.15
+      X-Frame-Options:
+      - SAMEORIGIN
+      X-Xss-Protection:
+      - 1; mode=block
+      X-Content-Type-Options:
+      - nosniff
+      X-Total-Count:
+      - '1'
+      Stsci-Ml-Item-Count:
+      - '1'
+      Etag:
+      - W/"16774912decc474b3209fb205544e8e6"
+      Cache-Control:
+      - max-age=0, private, must-revalidate
+      - max-age=31536000
+      X-Request-Id:
+      - fda5fff6-e289-448e-822a-59d85d5912c1
+      X-Runtime:
+      - '0.003373'
+      Status:
+      - 200 OK
+      Expires:
+      - Wed, 15 Apr 2020 22:14:26 GMT
+      Transfer-Encoding:
+      - chunked
+      Content-Type:
+      - application/json; charset=utf-8
+    body:
+      encoding: UTF-8
+      string: '{"name":"Mass of the First Stars","description":"The first stars were
+        probably tens to hundreds of times the mass of the Sun, but might have been
+        a lot smaller than this.","credits":"\u003ca href=\"http://www.stsci.edu/\"\u003eSTScI\u003c/a\u003e","mission":"james_webb","collection":"webb_non_news_assets","image_files":[{"file_url":"https://media.stsci.edu/uploads/image_file/image_attachment/31272/STScI-H-first-stars-mass-2016x1111.jpg","file_size":376244,"width":2016,"height":1111}]}'
+    http_version: 
+  recorded_at: Tue, 16 Apr 2019 22:14:26 GMT
+- request:
+    method: get
+    uri: http://hubblesite.org/api/v3/image/4353
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      User-Agent:
+      - Faraday v0.15.4
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Accept:
+      - "*/*"
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Tue, 16 Apr 2019 22:14:26 GMT
+      Server:
+      - Apache/2.2.15
+      X-Frame-Options:
+      - SAMEORIGIN
+      X-Xss-Protection:
+      - 1; mode=block
+      X-Content-Type-Options:
+      - nosniff
+      X-Total-Count:
+      - '1'
+      Stsci-Ml-Item-Count:
+      - '1'
+      Etag:
+      - W/"8cce5effe380bb0718566ef74b6bc2ac"
+      Cache-Control:
+      - max-age=0, private, must-revalidate
+      - max-age=31536000
+      X-Request-Id:
+      - 2169d197-1ee4-40b0-8bd4-09745aa7fe45
+      X-Runtime:
+      - '0.004140'
+      Status:
+      - 200 OK
+      Expires:
+      - Wed, 15 Apr 2020 22:14:26 GMT
+      Transfer-Encoding:
+      - chunked
+      Content-Type:
+      - application/json; charset=utf-8
+    body:
+      encoding: UTF-8
+      string: '{"name":"Composition of the First Stars","description":"The first generation
+        of stars, also known as Population III stars, were made almost entirely of
+        hydrogen and helium. Later generations of stars, including the Sun, contain
+        heavier elements like oxygen, carbon, and iron, which formed in the cores
+        of earlier stars. ","credits":"\u003ca href=\"http://www.stsci.edu/\"\u003eSTScI\u003c/a\u003e","mission":"james_webb","collection":"webb_non_news_assets","image_files":[{"file_url":"https://media.stsci.edu/uploads/image_file/image_attachment/31271/STScI-H-first-stars-composition-4044x2676.jpg","file_size":995192,"width":4044,"height":2676}]}'
+    http_version: 
+  recorded_at: Tue, 16 Apr 2019 22:14:26 GMT
+- request:
+    method: get
+    uri: http://hubblesite.org/api/v3/image/4352
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      User-Agent:
+      - Faraday v0.15.4
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Accept:
+      - "*/*"
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Tue, 16 Apr 2019 22:14:26 GMT
+      Server:
+      - Apache/2.2.15
+      X-Frame-Options:
+      - SAMEORIGIN
+      X-Xss-Protection:
+      - 1; mode=block
+      X-Content-Type-Options:
+      - nosniff
+      X-Total-Count:
+      - '1'
+      Stsci-Ml-Item-Count:
+      - '1'
+      Etag:
+      - W/"863a61f24993dc1062e1cd30e45d978f"
+      Cache-Control:
+      - max-age=0, private, must-revalidate
+      - max-age=31536000
+      X-Request-Id:
+      - 6d0027db-f51a-4066-95bb-7feac4de8c74
+      X-Runtime:
+      - '0.004874'
+      Status:
+      - 200 OK
+      Expires:
+      - Wed, 15 Apr 2020 22:14:26 GMT
+      Transfer-Encoding:
+      - chunked
+      Content-Type:
+      - application/json; charset=utf-8
+    body:
+      encoding: UTF-8
+      string: '{"name":"Timeline of the Universe","description":"Although we are not
+        sure exactly when the first stars began to shine, we know that they must have
+        formed sometime after the era of Recombination, when hydrogen and helium atoms
+        formed (380,000 years after the big bang), and before the oldest-known galaxies
+        existed (400 million years after the big bang). The ultraviolet light emitted
+        by the first stars broke down the neutral hydrogen gas filling the universe
+        into hydrogen ions and free electrons, initiating the era of Reionization
+        and the end of the Dark Ages of the universe.","credits":"\u003ca href=\"http://www.stsci.edu/\"\u003eSTScI\u003c/a\u003e","mission":"james_webb","collection":"webb_non_news_assets","image_files":[{"file_url":"https://media.stsci.edu/uploads/image_file/image_attachment/31270/STScI-H-first-stars-universe-history-6135x3526.jpg","file_size":1713311,"width":6135,"height":3526}]}'
+    http_version: 
+  recorded_at: Tue, 16 Apr 2019 22:14:26 GMT
+- request:
+    method: get
+    uri: http://hubblesite.org/api/v3/image/4313
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      User-Agent:
+      - Faraday v0.15.4
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Accept:
+      - "*/*"
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Tue, 16 Apr 2019 22:14:26 GMT
+      Server:
+      - Apache/2.2.15
+      X-Frame-Options:
+      - SAMEORIGIN
+      X-Xss-Protection:
+      - 1; mode=block
+      X-Content-Type-Options:
+      - nosniff
+      X-Total-Count:
+      - '1'
+      Stsci-Ml-Item-Count:
+      - '1'
+      Etag:
+      - W/"4e7038098729e5cf9037f72f749eb903"
+      Cache-Control:
+      - max-age=0, private, must-revalidate
+      - max-age=31536000
+      X-Request-Id:
+      - ceeb637d-2267-410b-a040-556351424f9f
+      X-Runtime:
+      - '0.004303'
+      Status:
+      - 200 OK
+      Expires:
+      - Wed, 15 Apr 2020 22:14:26 GMT
+      Transfer-Encoding:
+      - chunked
+      Content-Type:
+      - application/json; charset=utf-8
+    body:
+      encoding: UTF-8
+      string: '{"name":"Artist''s Concept of Neptune''s Moon Hippocamp","description":"This
+        is an artist''s concept of the tiny moon Hippocamp that was discovered by
+        the Hubble Space Telescope in 2013. Only 20 miles across, it may actually
+        be a broken-off fragment from a much larger neighboring moon, Proteus, seen
+        as a crescent in the background. This is the first evidence for a moon being
+        an offshoot from a comet collision with a much larger parent body.","credits":"\u003ca
+        href=\"http://www.nasa.gov\"\u003eNASA\u003c/a\u003e, \u003ca href=\"http://www.spacetelescope.org\"\u003eESA\u003c/a\u003e,
+        and J. Olmsted (\u003ca href=\"http://www.stsci.edu\"\u003eSTScI\u003c/a\u003e)","news_name":"a","mission":"hubble","collection":"news","image_files":[{"file_url":"https://media.stsci.edu/uploads/image_file/image_attachment/31214/STScI-H-p1904a-f-1008x576.pdf","file_size":6859991,"width":1008,"height":576},{"file_url":"https://media.stsci.edu/uploads/image_file/image_attachment/31213/STScI-H-p1904a-m-2000x1143.png","file_size":3536961,"width":2000,"height":1143},{"file_url":"https://media.stsci.edu/uploads/image_file/image_attachment/31215/STScI-H-p1904a-f-4200x2400.png","file_size":11338663,"width":4200,"height":2400},{"file_url":"https://media.stsci.edu/uploads/image_file/image_attachment/31216/STScI-H-p1904a-f-4200x2400.tif","file_size":13441504,"width":4200,"height":2400}]}'
+    http_version: 
+  recorded_at: Tue, 16 Apr 2019 22:14:26 GMT
+- request:
+    method: get
+    uri: http://hubblesite.org/api/v3/image/4314
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      User-Agent:
+      - Faraday v0.15.4
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Accept:
+      - "*/*"
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Tue, 16 Apr 2019 22:14:26 GMT
+      Server:
+      - Apache/2.2.15
+      X-Frame-Options:
+      - SAMEORIGIN
+      X-Xss-Protection:
+      - 1; mode=block
+      X-Content-Type-Options:
+      - nosniff
+      X-Total-Count:
+      - '1'
+      Stsci-Ml-Item-Count:
+      - '1'
+      Etag:
+      - W/"142d84e2d55a0c5b26ba64e358646a79"
+      Cache-Control:
+      - max-age=0, private, must-revalidate
+      - max-age=31536000
+      X-Request-Id:
+      - a75d814d-f333-4833-8ff7-105f07364e9d
+      X-Runtime:
+      - '0.004472'
+      Status:
+      - 200 OK
+      Expires:
+      - Wed, 15 Apr 2020 22:14:26 GMT
+      Transfer-Encoding:
+      - chunked
+      Content-Type:
+      - application/json; charset=utf-8
+    body:
+      encoding: UTF-8
+      string: '{"name":"Neptune''s Inner Moons and Their Diameters","description":"This
+        diagram shows the orbital positions of Neptune''s inner moons, which range
+        in size from 20 to 260 miles across. The outer moon Triton was captured from
+        the Kuiper belt many billions of years ago. This would have torn up Neptune''s
+        original satellite system. Triton settled into a circular orbit and the debris
+        from shattered moons re-coalesced into a second generation of inner satellites
+        seen today. However, comet bombardment continued to tear things up, leading
+        to the birth of Hippocamp, which is a broken-off piece of Proteus. Therefore,
+        it is a third-generation satellite. Not shown is Neptune''s outermost known
+        satellite, Nereid, which is in a highly eccentric orbit, and may be a survivor
+        from the era of that Triton capture.","credits":"\u003ca href=\"http://www.nasa.gov\"\u003eNASA\u003c/a\u003e,
+        \u003ca href=\"http://www.spacetelescope.org\"\u003eESA\u003c/a\u003e, and
+        A. Feild (\u003ca href=\"http://www.stsci.edu\"\u003eSTScI\u003c/a\u003e)","news_name":"b","mission":"hubble","collection":"news","image_files":[{"file_url":"https://media.stsci.edu/uploads/image_file/image_attachment/31208/STSCI-H-p11904b-e-10x8.pdf","file_size":2205829,"width":720,"height":576},{"file_url":"https://media.stsci.edu/uploads/image_file/image_attachment/31234/STSCI-H-p1904b-z-1000x800.png","file_size":234963,"width":1000,"height":800},{"file_url":"https://media.stsci.edu/uploads/image_file/image_attachment/31212/STSCI-H-p1904b-m-2000x1600.png","file_size":588916,"width":2000,"height":1600},{"file_url":"https://media.stsci.edu/uploads/image_file/image_attachment/31235/STSCI-H-p1904b-f-3000x2400.tif","file_size":21637626,"width":3000,"height":2400},{"file_url":"https://media.stsci.edu/uploads/image_file/image_attachment/31044/STSCI-H-p1904b-f-3000x2400.jpg","file_size":912938,"width":3000,"height":2400}]}'
+    http_version: 
+  recorded_at: Tue, 16 Apr 2019 22:14:26 GMT
+- request:
+    method: get
+    uri: http://hubblesite.org/api/v3/image/4320
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      User-Agent:
+      - Faraday v0.15.4
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Accept:
+      - "*/*"
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Tue, 16 Apr 2019 22:14:26 GMT
+      Server:
+      - Apache/2.2.15
+      X-Frame-Options:
+      - SAMEORIGIN
+      X-Xss-Protection:
+      - 1; mode=block
+      X-Content-Type-Options:
+      - nosniff
+      X-Total-Count:
+      - '1'
+      Stsci-Ml-Item-Count:
+      - '1'
+      Etag:
+      - W/"e9fcda1c8f19b22b6c24d601159b1070"
+      Cache-Control:
+      - max-age=0, private, must-revalidate
+      - max-age=31536000
+      X-Request-Id:
+      - eaa49984-d41b-4bb4-8361-f360404df57f
+      X-Runtime:
+      - '0.005112'
+      Status:
+      - 200 OK
+      Expires:
+      - Wed, 15 Apr 2020 22:14:26 GMT
+      Transfer-Encoding:
+      - chunked
+      Content-Type:
+      - application/json; charset=utf-8
+    body:
+      encoding: UTF-8
+      string: '{"name":"Uranus and Neptune","description":"\u003cstrong\u003eHubble
+        Reveals Dynamic Atmospheres of Uranus and Neptune\u003c/strong\u003e\r\n\r\nDuring
+        its routine yearly monitoring of the weather on our solar system''s outer
+        planets, NASA''s Hubble Space Telescope has uncovered a new mysterious dark
+        storm on Neptune (right) and provided a fresh look at a long-lived storm circling
+        around the north polar region on Uranus (left).\r\n\r\nLike Earth, Uranus
+        and Neptune have seasons, which likely drive some of the features in their
+        atmospheres. But their seasons are much longer than on Earth, spanning decades
+        rather than months.\r\n\r\nThe new Hubble view of Neptune shows the dark storm,
+        seen at top center. Appearing during the planet''s southern summer, the feature
+        is the fourth and latest mysterious dark vortex captured by Hubble since 1993.
+        Two other dark storms were discovered by the Voyager 2 spacecraft in 1989
+        as it flew by the remote planet. Since then, only Hubble has had the sensitivity
+        in blue light to track these elusive features, which have appeared and faded
+        quickly. A study led by University of California, Berkeley, undergraduate
+        student Andrew Hsu estimated that the dark spots appear every four to six
+        years at different latitudes and disappear after about two years. \r\n\r\nHubble
+        uncovered the latest storm in September 2018 in Neptune''s northern hemisphere.
+        The feature is roughly 6,800 miles across.\r\n\r\nTo the right of the dark
+        feature are bright white \"companion clouds.\" Hubble has observed similar
+        clouds accompanying previous vortices. The bright clouds form when the flow
+        of ambient air is perturbed and diverted upward over the dark vortex, causing
+        gases to freeze into methane ice crystals. These clouds are similar to clouds
+        that appear as pancake-shaped features when air is pushed over mountains on
+        Earth (though Neptune has no solid surface). The long, thin cloud to the left
+        of the dark spot is a transient feature that is not part of the storm system.\r\n\r\nIt''s
+        unclear how these storms form. But like Jupiter''s Great Red Spot, the dark
+        vortices swirl in an anti-cyclonic direction and seem to dredge up material
+        from deeper levels in the ice giant''s atmosphere.\r\n\r\nThe Hubble observations
+        show that as early as 2016, increased cloud activity in the region preceded
+        the vortex''s appearance. The images indicate that the vortices probably develop
+        deeper in Neptune''s atmosphere, becoming visible only when the top of the
+        storm reaches higher altitudes.\r\n\r\nThe snapshot of Uranus, like the image
+        of Neptune, reveals a dominant feature: a vast bright cloud cap across the
+        north pole.\r\n\r\nScientists believe this feature is a result of Uranus''
+        unique rotation. Unlike every other planet in the solar system, Uranus is
+        tipped over almost onto its side. Because of this extreme tilt, during the
+        planet''s summer the Sun shines almost directly onto the north pole and never
+        sets. Uranus is now approaching the middle of its summer season, and the polar-cap
+        region is becoming more prominent. This polar hood may have formed by seasonal
+        changes in atmospheric flow.\r\n\r\nNear the edge of the cloud cap is a large,
+        compact methane-ice cloud, which is sometimes bright enough to be photographed
+        by amateur astronomers. A narrow cloud band encircles the planet north of
+        the equator. It is a mystery how bands like these are confined to such narrow
+        widths, because Uranus and Neptune have very broad westward-blowing wind jets.\r\n\r\nBoth
+        planets are classified as ice giant planets. They have no solid surface but
+        rather mantles of hydrogen and helium surrounding a water-rich interior, itself
+        perhaps wrapped around a rocky core. Atmospheric methane absorbs red light
+        but allows blue-green light to be scattered back into space, giving each planet
+        a cyan hue.\r\n\r\nThe new Neptune and Uranus images are from the Outer Planet
+        Atmospheres Legacy (OPAL) program, a long-term Hubble project, led by Amy
+        Simon of NASA''s Goddard Space Flight Center in Greenbelt, Maryland, that
+        annually captures global maps of our solar system''s outer planets when they
+        are closest to Earth in their orbits. OPAL''s key goals are to study long-term
+        seasonal changes, as well as capture comparatively transitory events, such
+        as the appearance of Neptune''s dark spot. These dark storms may be so fleeting
+        that in the past some of them may have appeared and faded during multi-year
+        gaps in Hubble''s observations of Neptune. The OPAL program ensures that astronomers
+        won''t miss another one.\r\n\r\nThese images are part of a scrapbook of Hubble
+        snapshots of Neptune and Uranus that track the weather patterns over time
+        on these distant, cold planets. Just as meteorologists cannot predict the
+        weather on Earth by studying a few snapshots, astronomers cannot track atmospheric
+        trends on solar system planets without regularly-repeated observations. Astronomers
+        hope that Hubble''s long-term monitoring of the outer planets will help them
+        unravel the mysteries that still persist about these faraway worlds. \r\n\r\nAnalyzing
+        the weather on these worlds also will help scientists better understand the
+        diversity and similarities of the atmospheres of solar-system planets, including
+        Earth.","credits":"\u003ca href=\"http:www.nasa.gov\"\u003eNASA\u003c/a\u003e,
+        \u003ca href=\"http://www.spacetelescope.org\"\u003eESA\u003c/a\u003e, A.
+        Simon (NASA Goddard Space Flight Center), and M.H. Wong and A. Hsu (University
+        of California, Berkeley)","news_name":"a","mission":"hubble","collection":"news","image_files":[{"file_url":"https://media.stsci.edu/uploads/image_file/image_attachment/31226/STSCI-H-p1906a-f-1028x543.tif","file_size":226642,"width":1028,"height":543},{"file_url":"https://media.stsci.edu/uploads/image_file/image_attachment/31227/STSCI-H-p1906a-f-1028x543.png","file_size":234546,"width":1028,"height":543}]}'
+    http_version: 
+  recorded_at: Tue, 16 Apr 2019 22:14:26 GMT
+- request:
+    method: get
+    uri: http://hubblesite.org/api/v3/image/4321
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      User-Agent:
+      - Faraday v0.15.4
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Accept:
+      - "*/*"
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Tue, 16 Apr 2019 22:14:26 GMT
+      Server:
+      - Apache/2.2.15
+      X-Frame-Options:
+      - SAMEORIGIN
+      X-Xss-Protection:
+      - 1; mode=block
+      X-Content-Type-Options:
+      - nosniff
+      X-Total-Count:
+      - '1'
+      Stsci-Ml-Item-Count:
+      - '1'
+      Etag:
+      - W/"be04e064c75860a7135415c5fae70225"
+      Cache-Control:
+      - max-age=0, private, must-revalidate
+      - max-age=31536000
+      X-Request-Id:
+      - '09a89e95-0f63-42ba-a46e-15d27df136b5'
+      X-Runtime:
+      - '0.004447'
+      Status:
+      - 200 OK
+      Expires:
+      - Wed, 15 Apr 2020 22:14:26 GMT
+      Transfer-Encoding:
+      - chunked
+      Content-Type:
+      - application/json; charset=utf-8
+    body:
+      encoding: UTF-8
+      string: '{"name":"Compass Image of Uranus and Neptune","credits":"\u003ca href=\"http://www.nasa.gov\"\u003eNASA\u003c/a\u003e,
+        \u003ca href=\"http://www.spacetelescope.org\"\u003eESA\u003c/a\u003e, A.
+        Simon (NASA Goddard Space Flight Center), and M.H. Wong and A. Hsu (University
+        of California, Berkeley)","news_name":"b","mission":"hubble","collection":"news","image_files":[{"file_url":"https://media.stsci.edu/uploads/image_file/image_attachment/31229/STSCI-H-p1906b-f-1028x543.png","file_size":258877,"width":1028,"height":543},{"file_url":"https://media.stsci.edu/uploads/image_file/image_attachment/31228/STSCI-H-p1906b-f-1028x543.tif","file_size":255662,"width":1028,"height":543}]}'
+    http_version: 
+  recorded_at: Tue, 16 Apr 2019 22:14:26 GMT
+- request:
+    method: get
+    uri: http://hubblesite.org/api/v3/image/4322
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      User-Agent:
+      - Faraday v0.15.4
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Accept:
+      - "*/*"
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Tue, 16 Apr 2019 22:14:26 GMT
+      Server:
+      - Apache/2.2.15
+      X-Frame-Options:
+      - SAMEORIGIN
+      X-Xss-Protection:
+      - 1; mode=block
+      X-Content-Type-Options:
+      - nosniff
+      X-Total-Count:
+      - '1'
+      Stsci-Ml-Item-Count:
+      - '1'
+      Etag:
+      - W/"8fd3045749d42da0f9de260472d084c6"
+      Cache-Control:
+      - max-age=0, private, must-revalidate
+      - max-age=31536000
+      X-Request-Id:
+      - cb36c891-64c7-4d63-ac78-f335775d11ee
+      X-Runtime:
+      - '0.004394'
+      Status:
+      - 200 OK
+      Expires:
+      - Wed, 15 Apr 2020 22:14:26 GMT
+      Transfer-Encoding:
+      - chunked
+      Content-Type:
+      - application/json; charset=utf-8
+    body:
+      encoding: UTF-8
+      string: '{"name":"Uranus","description":"This Hubble Space Telescope Wide Field
+        Camera 3 image of Uranus, taken in Nov. 2018, reveals a vast bright stormy
+        cloud cap across the planet''s north pole.","credits":"\u003ca href=\"http://www.nasa.gov\"\u003eNASA\u003c/a\u003e,
+        \u003ca href=\"http://www.spacetelescope.org\"\u003eESA\u003c/a\u003e, and
+        A. Simon (NASA Goddard Space Flight Center), and M. Wong and A. Hsu (University
+        of California, Berkeley)","news_name":"c","mission":"hubble","collection":"news","image_files":[{"file_url":"https://media.stsci.edu/uploads/image_file/image_attachment/31230/STSCI-H-p1906c-f-514x514.tif","file_size":122246,"width":514,"height":514},{"file_url":"https://media.stsci.edu/uploads/image_file/image_attachment/31231/STSCI-H-p1906c-f-514x514.png","file_size":119056,"width":514,"height":514}]}'
+    http_version: 
+  recorded_at: Tue, 16 Apr 2019 22:14:26 GMT
+- request:
+    method: get
+    uri: http://hubblesite.org/api/v3/image/4323
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      User-Agent:
+      - Faraday v0.15.4
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Accept:
+      - "*/*"
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Tue, 16 Apr 2019 22:14:27 GMT
+      Server:
+      - Apache/2.2.15
+      X-Frame-Options:
+      - SAMEORIGIN
+      X-Xss-Protection:
+      - 1; mode=block
+      X-Content-Type-Options:
+      - nosniff
+      X-Total-Count:
+      - '1'
+      Stsci-Ml-Item-Count:
+      - '1'
+      Etag:
+      - W/"ef35395c223224a58bed3f075b6e4894"
+      Cache-Control:
+      - max-age=0, private, must-revalidate
+      - max-age=31536000
+      X-Request-Id:
+      - 3974859b-3496-4fad-a64a-79acf5a8b02d
+      X-Runtime:
+      - '0.003883'
+      Status:
+      - 200 OK
+      Expires:
+      - Wed, 15 Apr 2020 22:14:27 GMT
+      Transfer-Encoding:
+      - chunked
+      Content-Type:
+      - application/json; charset=utf-8
+    body:
+      encoding: UTF-8
+      string: '{"name":"Neptune","description":"This Hubble Space Telescope Wide Field
+        Camera 3 image of Neptune, taken in Sept. and Nov. 2018, shows a new dark
+        storm (top center).","credits":"\u003ca href=\"http://www.nasa.gov\"\u003eNASA\u003c/a\u003e,
+        \u003ca href=\"http://www.spacetelescope.org\"\u003eESA\u003c/a\u003e, and
+        A. Simon (NASA Goddard Space Flight Center), and M. Wong and A. Hsu (University
+        of California, Berkeley)","news_name":"d","mission":"hubble","collection":"news","image_files":[{"file_url":"https://media.stsci.edu/uploads/image_file/image_attachment/31233/STSCI-H-p1906d-f-514x514.png","file_size":124194,"width":514,"height":514},{"file_url":"https://media.stsci.edu/uploads/image_file/image_attachment/31232/STSCI-H-p1906d-f-514x514.tif","file_size":127846,"width":514,"height":514}]}'
+    http_version: 
+  recorded_at: Tue, 16 Apr 2019 22:14:27 GMT
+- request:
+    method: get
+    uri: http://hubblesite.org/api/v3/image/4317
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      User-Agent:
+      - Faraday v0.15.4
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Accept:
+      - "*/*"
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Tue, 16 Apr 2019 22:14:27 GMT
+      Server:
+      - Apache/2.2.15
+      X-Frame-Options:
+      - SAMEORIGIN
+      X-Xss-Protection:
+      - 1; mode=block
+      X-Content-Type-Options:
+      - nosniff
+      X-Total-Count:
+      - '1'
+      Stsci-Ml-Item-Count:
+      - '1'
+      Etag:
+      - W/"040a0e92ad4852da437cdad5d103c0c7"
+      Cache-Control:
+      - max-age=0, private, must-revalidate
+      - max-age=31536000
+      X-Request-Id:
+      - fcd65bb5-3cdb-4625-ba3c-bcb36fddc6cc
+      X-Runtime:
+      - '0.005058'
+      Status:
+      - 200 OK
+      Expires:
+      - Wed, 15 Apr 2020 22:14:27 GMT
+      Transfer-Encoding:
+      - chunked
+      Content-Type:
+      - application/json; charset=utf-8
+    body:
+      encoding: ASCII-8BIT
+      string: !binary |-
+        eyJuYW1lIjoiQmVkaW4gMSBpbiBOR0MgNjc1MiIsImRlc2NyaXB0aW9uIjoiXHUwMDNjc3Ryb25nXHUwMDNlRFdBUkYgR0FMQVhZIFNQT1RURUQgQkVISU5EIEdMT0JVTEFSIFNUQVIgQ0xVU1RFUlx1MDAzYy9zdHJvbmdcdTAwM2VcclxuXHJcblRoaXMgaXMgYSBIdWJibGUgU3BhY2UgVGVsZXNjb3BlIGltYWdlIG9mIGEgY29uY2VudHJhdGlvbiBvZiBzdGFycyB3aXRoaW4gdGhlIGdsb2J1bGFyIGNsdXN0ZXIgTkdDIDY3NTIuIEhpZGRlbiBhbW9uZyB0aGUgc3RhcnMgaXMgYW4gaW1hZ2Ugb2YgYSBiYWNrZ3JvdW5kIGdhbGF4eSB0aGF0IGlzIG11Y2ggZmFydGhlciBhd2F5LiBUaGUgZGltaW51dGl2ZSBnYWxheHksIG5hbWVkIGJ5IGl0cyBkaXNjb3ZlcmVycyBhcyBCZWRpbiAxLCBtZWFzdXJlcyBvbmx5IGFyb3VuZCAzLDAwMCBsaWdodC15ZWFycyBhdCBpdHMgZ3JlYXRlc3QgZXh0ZW50IOKAlCBhIGZyYWN0aW9uIG9mIHRoZSBzaXplIG9mIHRoZSBNaWxreSBXYXkuIE5vdCBvbmx5IGlzIGl0IHRpbnksIGJ1dCBpdCBpcyBhbHNvIGluY3JlZGlibHkgZmFpbnQuIFRoZXNlIHByb3BlcnRpZXMgbGVkIGFzdHJvbm9tZXJzIHRvIGNsYXNzaWZ5IGl0IGFzIGEgZHdhcmYgc3BoZXJvaWRhbCBnYWxheHkgdGhhdCBpcyBhcyBvbGQgYXMgdGhlIHVuaXZlcnNlLlxyXG4iLCJjcmVkaXRzIjoiXHUwMDNjYSBocmVmPVwiaHR0cDovL3d3dy5uYXNhLmdvdlwiXHUwMDNlTkFTQVx1MDAzYy9hXHUwMDNlLCBcdTAwM2NhIGhyZWY9XCJodHRwOi8vd3d3LnNwYWNldGVsZXNjb3BlLm9yZ1wiXHUwMDNlRVNBXHUwMDNjL2FcdTAwM2UsIGFuZCBMLiBCZWRpbiAoQXN0cm9ub21pY2FsIE9ic2VydmF0b3J5IG9mIFBhZHVhLCBJdGFseSkiLCJuZXdzX25hbWUiOiJhIiwibWlzc2lvbiI6Imh1YmJsZSIsImNvbGxlY3Rpb24iOiJuZXdzIiwiaW1hZ2VfZmlsZXMiOlt7ImZpbGVfdXJsIjoiaHR0cHM6Ly9tZWRpYS5zdHNjaS5lZHUvdXBsb2Fkcy9pbWFnZV9maWxlL2ltYWdlX2F0dGFjaG1lbnQvMzEyMTkvU1RTQ0ktSC1wMTkwOWEtZi0xMzU1eDEwMTcudGlmIiwiZmlsZV9zaXplIjoyOTg3MTA0LCJ3aWR0aCI6MTM1NSwiaGVpZ2h0IjoxMDE3fSx7ImZpbGVfdXJsIjoiaHR0cHM6Ly9tZWRpYS5zdHNjaS5lZHUvdXBsb2Fkcy9pbWFnZV9maWxlL2ltYWdlX2F0dGFjaG1lbnQvMzEyMjAvU1RTQ0ktSC1wMTkwOWEtZi0xMzU1eDEwMTcucG5nIiwiZmlsZV9zaXplIjoyNzAxNTA1LCJ3aWR0aCI6MTM1NSwiaGVpZ2h0IjoxMDE3fV19
+    http_version: 
+  recorded_at: Tue, 16 Apr 2019 22:14:27 GMT
 recorded_with: VCR 4.0.0

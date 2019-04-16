@@ -4,7 +4,7 @@ class HubbleService
   end
 
   def images
-    raw = JSON.parse(conn.get("images/all").body, symbolize_names: true)[0..3] # TODO: remove temporary subarray
+    raw = JSON.parse(conn.get("images/all").body, symbolize_names: true)
 
     raw.map! do |raw_image_basic|
       image(raw_image_basic[:id]).merge(id: raw_image_basic[:id])
