@@ -13,6 +13,7 @@ RSpec.describe 'As a user' do
     end
 
     it "I only see my favorites and not anything else", :vcr do
+      expect(current_path).to eq(favorites_path)
       expect(page).to have_css(".image", count: 1)
 
       within "#image-666" do

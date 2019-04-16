@@ -1,0 +1,313 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: http://hubblesite.org/api/v3/images/all
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      User-Agent:
+      - Faraday v0.15.4
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Accept:
+      - "*/*"
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Tue, 16 Apr 2019 22:01:24 GMT
+      Server:
+      - Apache/2.2.15
+      X-Frame-Options:
+      - SAMEORIGIN
+      X-Xss-Protection:
+      - 1; mode=block
+      X-Content-Type-Options:
+      - nosniff
+      X-Total-Count:
+      - '25'
+      Stsci-Ml-Item-Count:
+      - '25'
+      Stsci-Ml-Page:
+      - '1'
+      Etag:
+      - W/"ba6e9eb681d5ebed149488ff77a85ee4"
+      Cache-Control:
+      - max-age=0, private, must-revalidate
+      - max-age=31536000
+      X-Request-Id:
+      - a939885d-172f-4de0-9fd0-ad2907f84f6a
+      X-Runtime:
+      - '0.029743'
+      Status:
+      - 200 OK
+      Expires:
+      - Wed, 15 Apr 2020 22:01:24 GMT
+      Transfer-Encoding:
+      - chunked
+      Content-Type:
+      - application/json; charset=utf-8
+    body:
+      encoding: UTF-8
+      string: '[{"id":4381,"name":"2019 Hubble Einstein Sagan Fellows","news_name":"a","collection":"news","mission":"hubble"},{"id":4379,"name":"Asteroid
+        (6478) Gault","news_name":"a","collection":"news","mission":"hubble"},{"id":4380,"name":"Compass
+        Image for Asteroid (6478) Gault","news_name":"b","collection":"news","mission":"hubble"},{"id":4376,"name":"Abell
+        2744","news_name":"a","collection":"news","mission":"james_webb"},{"id":4377,"name":"Gravitational
+        Lensing","news_name":"b","collection":"news","mission":"james_webb"},{"id":4378,"name":"What
+        is Cosmological Redshift?","news_name":"c","collection":"news","mission":"james_webb"},{"id":4369,"name":"Globular
+        Clusters around Milky Way","news_name":"a","collection":"news","mission":"hubble"},{"id":4370,"name":"Hubble
+        Space Telescope in Orbit","news_name":"a","collection":"news","mission":"hubble"},{"id":4368,"name":"Hubble
+        Space Telescope in Orbit","news_name":"a","collection":"news","mission":"hubble"},{"id":4324,"name":"Multiwavelength
+        View of Supernova 1987A","news_name":"a","collection":"news","mission":"james_webb"},{"id":4359,"name":"Massive
+        Stars: Engines of Creation Infographic","news_name":"b","collection":"news","mission":"james_webb"},{"id":4358,"name":"Redshift
+        of the First Stars ","collection":"webb_non_news_assets","mission":"james_webb"},{"id":4357,"name":"Ionization
+        By Llight From the First Stars","collection":"webb_non_news_assets","mission":"james_webb"},{"id":4356,"name":"Temperature,
+        Brightness, and Color of the First Stars","collection":"webb_non_news_assets","mission":"james_webb"},{"id":4355,"name":"Lifespan
+        of the First Stars","collection":"webb_non_news_assets","mission":"james_webb"},{"id":4354,"name":"Mass
+        of the First Stars","collection":"webb_non_news_assets","mission":"james_webb"},{"id":4353,"name":"Composition
+        of the First Stars","collection":"webb_non_news_assets","mission":"james_webb"},{"id":4352,"name":"Timeline
+        of the Universe","collection":"webb_non_news_assets","mission":"james_webb"},{"id":4313,"name":"Artist''s
+        Concept of Neptune''s Moon Hippocamp","news_name":"a","collection":"news","mission":"hubble"},{"id":4314,"name":"Neptune''s
+        Inner Moons and Their Diameters","news_name":"b","collection":"news","mission":"hubble"},{"id":4320,"name":"Uranus
+        and Neptune","news_name":"a","collection":"news","mission":"hubble"},{"id":4321,"name":"Compass
+        Image of Uranus and Neptune","news_name":"b","collection":"news","mission":"hubble"},{"id":4322,"name":"Uranus","news_name":"c","collection":"news","mission":"hubble"},{"id":4323,"name":"Neptune","news_name":"d","collection":"news","mission":"hubble"},{"id":4317,"name":"Bedin
+        1 in NGC 6752","news_name":"a","collection":"news","mission":"hubble"}]'
+    http_version: 
+  recorded_at: Tue, 16 Apr 2019 22:01:25 GMT
+- request:
+    method: get
+    uri: http://hubblesite.org/api/v3/image/4381
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      User-Agent:
+      - Faraday v0.15.4
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Accept:
+      - "*/*"
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Tue, 16 Apr 2019 22:01:25 GMT
+      Server:
+      - Apache/2.2.15
+      X-Frame-Options:
+      - SAMEORIGIN
+      X-Xss-Protection:
+      - 1; mode=block
+      X-Content-Type-Options:
+      - nosniff
+      X-Total-Count:
+      - '1'
+      Stsci-Ml-Item-Count:
+      - '1'
+      Etag:
+      - W/"b28a1b718c7c19bde8cc322bdff6a249"
+      Cache-Control:
+      - max-age=0, private, must-revalidate
+      - max-age=31536000
+      X-Request-Id:
+      - ab00a1fb-48e3-4a8e-a260-0de45842bc29
+      X-Runtime:
+      - '0.011899'
+      Status:
+      - 200 OK
+      Expires:
+      - Wed, 15 Apr 2020 22:01:25 GMT
+      Transfer-Encoding:
+      - chunked
+      Content-Type:
+      - application/json; charset=utf-8
+    body:
+      encoding: UTF-8
+      string: '{"name":"2019 Hubble Einstein Sagan Fellows","description":"NASA has
+        selected 24 new Fellows for its prestigious NASA Hubble Fellowship Program
+        (NHFP). The program enables outstanding postdoctoral scientists to pursue
+        independent research in any area of NASA Astrophysics, using theory, observation,
+        experimentation, or instrument development. Each fellowship provides the awardee
+        up to three years of support.","credits":"\u003ca href=\"http://www.nasa.gov/\"\u003eNASA\u003c/a\u003e,
+        \u003ca href=\"http://www.spacetelescope.org/\"\u003eESA\u003c/a\u003e, and
+        A. Feild (\u003ca href=\"http://www.stsci.edu/\"\u003eSTScI\u003c/a\u003e)","news_name":"a","mission":"hubble","collection":"news","image_files":[{"file_url":"https://media.stsci.edu/uploads/image_file/image_attachment/31325/STSCI-H-p1924a-p433x250.png","file_size":196906,"width":433,"height":250},{"file_url":"https://media.stsci.edu/uploads/image_file/image_attachment/31326/STSCI-H-p1924a-z1000x388.png","file_size":891502,"width":1000,"height":388},{"file_url":"https://media.stsci.edu/uploads/image_file/image_attachment/31324/STSCI-H-p1924a-k1340x520.png","file_size":1453728,"width":1340,"height":520},{"file_url":"https://media.stsci.edu/uploads/image_file/image_attachment/31328/STSCI-H-p1924a-f4000x1552.png","file_size":2957519,"width":2000,"height":776},{"file_url":"https://media.stsci.edu/uploads/image_file/image_attachment/31327/STSCI-H-p1924a-f4000x1552.jpg","file_size":4215195,"width":4000,"height":1552}]}'
+    http_version: 
+  recorded_at: Tue, 16 Apr 2019 22:01:25 GMT
+- request:
+    method: get
+    uri: http://hubblesite.org/api/v3/image/4379
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      User-Agent:
+      - Faraday v0.15.4
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Accept:
+      - "*/*"
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Tue, 16 Apr 2019 22:01:25 GMT
+      Server:
+      - Apache/2.2.15
+      X-Frame-Options:
+      - SAMEORIGIN
+      X-Xss-Protection:
+      - 1; mode=block
+      X-Content-Type-Options:
+      - nosniff
+      X-Total-Count:
+      - '1'
+      Stsci-Ml-Item-Count:
+      - '1'
+      Etag:
+      - W/"059cd5e6d77b5fac55ae644a2112af37"
+      Cache-Control:
+      - max-age=0, private, must-revalidate
+      - max-age=31536000
+      X-Request-Id:
+      - a02478ee-c70d-4d4f-8517-e702221deb8e
+      X-Runtime:
+      - '0.010780'
+      Status:
+      - 200 OK
+      Expires:
+      - Wed, 15 Apr 2020 22:01:25 GMT
+      Transfer-Encoding:
+      - chunked
+      Content-Type:
+      - application/json; charset=utf-8
+    body:
+      encoding: ASCII-8BIT
+      string: !binary |-
+        eyJuYW1lIjoiQXN0ZXJvaWQgKDY0NzgpIEdhdWx0IiwiZGVzY3JpcHRpb24iOiJcdTAwM2NzdHJvbmdcdTAwM2VIdWJibGUgV2l0bmVzc2VzIEFzdGVyb2lkIENvbWluZyBVbmdsdWVkXHUwMDNjL3N0cm9uZ1x1MDAzZVxyXG5cclxuVGhpcyBIdWJibGUgU3BhY2UgVGVsZXNjb3BlIGltYWdlIHJldmVhbHMgdGhlIGdyYWR1YWwgc2VsZi1kZXN0cnVjdGlvbiBvZiBhbiBhc3Rlcm9pZCwgd2hvc2UgZWplY3RlZCBkdXN0eSBtYXRlcmlhbCBoYXMgZm9ybWVkIHR3byBsb25nLCB0aGluLCBjb21ldC1saWtlIHRhaWxzLiBUaGUgbG9uZ2VyIHRhaWwgc3RyZXRjaGVzIG1vcmUgdGhhbiA1MDAsMDAwIG1pbGVzICg4MDAsMDAwIGtpbG9tZXRlcnMpIGFuZCBpcyByb3VnaGx5IDMsMDAwIG1pbGVzICg0LDgwMCBraWxvbWV0ZXJzKSB3aWRlLiBUaGUgc2hvcnRlciB0YWlsIGlzIGFib3V0IGEgcXVhcnRlciBhcyBsb25nLiBUaGUgc3RyZWFtZXJzIHdpbGwgZXZlbnR1YWxseSBkaXNwZXJzZSBpbnRvIHNwYWNlLlxyXG5cclxuVGhlc2UgdW51c3VhbCwgdHJhbnNpZW50IGZlYXR1cmVzIGFyZSBldmlkZW5jZSB0aGF0IHRoZSBhc3Rlcm9pZCwga25vd24gYXMgKDY0NzgpIEdhdWx0LCBpcyBiZWdpbm5pbmcgdG8gY29tZSBhcGFydCBieSBnZW50bHkgcHVmZmluZyBvZmYgbWF0ZXJpYWwgaW4gdHdvIHNlcGFyYXRlIGVwaXNvZGVzLiBIdWJibGUncyBzaGFycCB2aWV3IHJldmVhbHMgdGhhdCB0aGUgdGFpbHMgYXJlIG5hcnJvdyBzdHJlYW1lcnMsIHN1Z2dlc3RpbmcgdGhhdCB0aGUgZHVzdCB3YXMgcmVsZWFzZWQgaW4gc2hvcnQgYnVyc3RzLCBsYXN0aW5nIGFueXdoZXJlIGZyb20gYSBmZXcgaG91cnMgdG8gYSBmZXcgZGF5cy5cclxuXHJcblRoZSBmaXJzdCB0YWlsIHdhcyBzcG90dGVkIG9uIEphbi4gNSwgMjAxOTsgdGhlIHNlY29uZCBpbiBtaWQtSmFudWFyeS4gQW4gYW5hbHlzaXMgb2YgYm90aCB0YWlscyBzdWdnZXN0cyB0aGUgdHdvIGR1c3QgcmVsZWFzZXMgb2NjdXJyZWQgYXJvdW5kIE9jdC4gMjggYW5kIERlYy4gMzAsIDIwMTguXHJcblxyXG5Bc3Ryb25vbWVycyB0aGluayB0aGUgdGlueSBhc3Rlcm9pZCwgb25seSAyLjUgbWlsZXMgd2lkZSwgaXMgZGlzaW50ZWdyYXRpbmcgZHVlIHRvIHRoZSBsb25nLXRlcm0gc3VidGxlIGVmZmVjdHMgb2Ygc3VubGlnaHQsIHdoaWNoIGNhbiBzbG93bHkgc3BlZWQgdXAgaXRzIHNwaW4gdW50aWwgaXQgYmVnaW5zIHRvIHNoZWQgbWF0ZXJpYWwuIEluIGZhY3QsIHRoZSBzZWxmLWRlc3RydWN0aW9uIG1heSBoYXZlIGJlZW4gc3RhcnRlZCBtb3JlIHRoYW4gMTAwIG1pbGxpb24geWVhcnMgYWdvLiBQcmVzc3VyZSBmcm9tIHN1bmxpZ2h0IHZlcnkgc2xvd2x5IGJlZ2FuIHNwaW5uaW5nIHVwIHRoZSBkaW1pbnV0aXZlIGFzdGVyb2lkIGF0IGFuIGVzdGltYXRlZCByYXRlIG9mIDEgc2Vjb25kIGV2ZXJ5IDEwLDAwMCB5ZWFycy5cclxuXHJcblRoZSBhc3Rlcm9pZCBpcyBsb2NhdGVkIDIxNCBtaWxsaW9uIG1pbGVzIGZyb20gdGhlIFN1biwgYmV0d2VlbiB0aGUgb3JiaXRzIG9mIE1hcnMgYW5kIEp1cGl0ZXIuXHJcblxyXG5cclxuIiwiY3JlZGl0cyI6Ilx1MDAzY2EgaHJlZj1cImh0dHA6Ly93d3cubmFzYS5nb3YvXCJcdTAwM2VOQVNBXHUwMDNjL2FcdTAwM2UsIFx1MDAzY2EgaHJlZj1cImh0dHA6Ly93d3cuc3BhY2V0ZWxlc2NvcGUub3JnL1wiXHUwMDNlRVNBXHUwMDNjL2FcdTAwM2UsIEsuIE1lZWNoIGFuZCBKLiBLbGV5bmEgKFVuaXZlcnNpdHkgb2YgSGF3YWlpKSzCoGFuZCBPLiBIYWluYXV0IChFdXJvcGVhbiBTb3V0aGVybiBPYnNlcnZhdG9yeSkiLCJuZXdzX25hbWUiOiJhIiwibWlzc2lvbiI6Imh1YmJsZSIsImNvbGxlY3Rpb24iOiJuZXdzIiwiaW1hZ2VfZmlsZXMiOlt7ImZpbGVfdXJsIjoiaHR0cHM6Ly9tZWRpYS5zdHNjaS5lZHUvdXBsb2Fkcy9pbWFnZV9maWxlL2ltYWdlX2F0dGFjaG1lbnQvMzEzMTkvU1RTQ0ktSC1wMTkyMmEtei0xMDAweDU4Mi5wbmciLCJmaWxlX3NpemUiOjg4MjkwNSwid2lkdGgiOjEwMDAsImhlaWdodCI6NTgyfSx7ImZpbGVfdXJsIjoiaHR0cHM6Ly9tZWRpYS5zdHNjaS5lZHUvdXBsb2Fkcy9pbWFnZV9maWxlL2ltYWdlX2F0dGFjaG1lbnQvMzEzMTgvU1RTQ0ktSC1wMTkyMmEtbS0yMDAweDExNjQucG5nIiwiZmlsZV9zaXplIjo0NTIxODAyLCJ3aWR0aCI6MjAwMCwiaGVpZ2h0IjoxMTY0fSx7ImZpbGVfdXJsIjoiaHR0cHM6Ly9tZWRpYS5zdHNjaS5lZHUvdXBsb2Fkcy9pbWFnZV9maWxlL2ltYWdlX2F0dGFjaG1lbnQvMzEzMTcvU1RTQ0ktSC1wMTkyMmEtZi01MTkweDMwMjMucG5nIiwiZmlsZV9zaXplIjozNDg3MjAxNywid2lkdGgiOjUxOTAsImhlaWdodCI6MzAyM30seyJmaWxlX3VybCI6Imh0dHBzOi8vbWVkaWEuc3RzY2kuZWR1L3VwbG9hZHMvaW1hZ2VfZmlsZS9pbWFnZV9hdHRhY2htZW50LzMxMzE2L1NUU0NJLUgtcDE5MjJhLWYtNTE5MHgzMDIzLnRpZiIsImZpbGVfc2l6ZSI6MzgzMDY4MzIsIndpZHRoIjo1MTkwLCJoZWlnaHQiOjMwMjN9XX0=
+    http_version: 
+  recorded_at: Tue, 16 Apr 2019 22:01:25 GMT
+- request:
+    method: get
+    uri: http://hubblesite.org/api/v3/image/4380
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      User-Agent:
+      - Faraday v0.15.4
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Accept:
+      - "*/*"
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Tue, 16 Apr 2019 22:01:25 GMT
+      Server:
+      - Apache/2.2.15
+      X-Frame-Options:
+      - SAMEORIGIN
+      X-Xss-Protection:
+      - 1; mode=block
+      X-Content-Type-Options:
+      - nosniff
+      X-Total-Count:
+      - '1'
+      Stsci-Ml-Item-Count:
+      - '1'
+      Etag:
+      - W/"2fd6ae63541d134333d838aa587fcb6a"
+      Cache-Control:
+      - max-age=0, private, must-revalidate
+      - max-age=31536000
+      X-Request-Id:
+      - dfa14d23-446f-4c7e-9852-ac16044ad1e4
+      X-Runtime:
+      - '0.010838'
+      Status:
+      - 200 OK
+      Expires:
+      - Wed, 15 Apr 2020 22:01:25 GMT
+      Transfer-Encoding:
+      - chunked
+      Content-Type:
+      - application/json; charset=utf-8
+    body:
+      encoding: ASCII-8BIT
+      string: !binary |-
+        eyJuYW1lIjoiQ29tcGFzcyBJbWFnZSBmb3IgQXN0ZXJvaWQgKDY0NzgpIEdhdWx0IiwiY3JlZGl0cyI6Ilx1MDAzY2EgaHJlZj1cImh0dHA6Ly93d3cubmFzYS5nb3YvXCJcdTAwM2VOQVNBXHUwMDNjL2FcdTAwM2UsIFx1MDAzY2EgaHJlZj1cImh0dHA6Ly93d3cuc3BhY2V0ZWxlc2NvcGUub3JnL1wiXHUwMDNlRVNBXHUwMDNjL2FcdTAwM2UsIEsuIE1lZWNoIGFuZCBKLiBLbGV5bmEgKFVuaXZlcnNpdHkgb2YgSGF3YWlpKSzCoGFuZCBPLiBIYWluYXV0IChFdXJvcGVhbiBTb3V0aGVybiBPYnNlcnZhdG9yeSkiLCJuZXdzX25hbWUiOiJiIiwibWlzc2lvbiI6Imh1YmJsZSIsImNvbGxlY3Rpb24iOiJuZXdzIiwiaW1hZ2VfZmlsZXMiOlt7ImZpbGVfdXJsIjoiaHR0cHM6Ly9tZWRpYS5zdHNjaS5lZHUvdXBsb2Fkcy9pbWFnZV9maWxlL2ltYWdlX2F0dGFjaG1lbnQvMzEzMjMvU1RTQ0ktSC1wMTkyMmItei0xMDAweDU4Mi5wbmciLCJmaWxlX3NpemUiOjkwMzg2Mywid2lkdGgiOjEwMDAsImhlaWdodCI6NTgyfSx7ImZpbGVfdXJsIjoiaHR0cHM6Ly9tZWRpYS5zdHNjaS5lZHUvdXBsb2Fkcy9pbWFnZV9maWxlL2ltYWdlX2F0dGFjaG1lbnQvMzEzMjIvU1RTQ0ktSC1wMTkyMmItbS0yMDAweDExNjQucG5nIiwiZmlsZV9zaXplIjo0NTQ4NDU1LCJ3aWR0aCI6MjAwMCwiaGVpZ2h0IjoxMTY0fSx7ImZpbGVfdXJsIjoiaHR0cHM6Ly9tZWRpYS5zdHNjaS5lZHUvdXBsb2Fkcy9pbWFnZV9maWxlL2ltYWdlX2F0dGFjaG1lbnQvMzEzMjEvU1RTQ0ktSC1wMTkyMmItZi01MTkweDMwMjMucG5nIiwiZmlsZV9zaXplIjozNDgwMzg1Mywid2lkdGgiOjUxOTAsImhlaWdodCI6MzAyM30seyJmaWxlX3VybCI6Imh0dHBzOi8vbWVkaWEuc3RzY2kuZWR1L3VwbG9hZHMvaW1hZ2VfZmlsZS9pbWFnZV9hdHRhY2htZW50LzMxMzIwL1NUU0NJLUgtcDE5MjJiLWYtNTE5MHgzMDIzLnRpZiIsImZpbGVfc2l6ZSI6MzgyNDU0NzIsIndpZHRoIjo1MTkwLCJoZWlnaHQiOjMwMjN9XX0=
+    http_version: 
+  recorded_at: Tue, 16 Apr 2019 22:01:25 GMT
+- request:
+    method: get
+    uri: http://hubblesite.org/api/v3/image/4376
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      User-Agent:
+      - Faraday v0.15.4
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Accept:
+      - "*/*"
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Tue, 16 Apr 2019 22:01:26 GMT
+      Server:
+      - Apache/2.2.15
+      X-Frame-Options:
+      - SAMEORIGIN
+      X-Xss-Protection:
+      - 1; mode=block
+      X-Content-Type-Options:
+      - nosniff
+      X-Total-Count:
+      - '1'
+      Stsci-Ml-Item-Count:
+      - '1'
+      Etag:
+      - W/"ce54033733acf7a219c47796c5a7d15b"
+      Cache-Control:
+      - max-age=0, private, must-revalidate
+      - max-age=31536000
+      X-Request-Id:
+      - f87bb6b6-697d-4c6a-85df-12919fa9113b
+      X-Runtime:
+      - '0.011608'
+      Status:
+      - 200 OK
+      Expires:
+      - Wed, 15 Apr 2020 22:01:26 GMT
+      Transfer-Encoding:
+      - chunked
+      Content-Type:
+      - application/json; charset=utf-8
+    body:
+      encoding: UTF-8
+      string: '{"name":"Abell 2744","description":"Abell 2744, nicknamed Pandora''s
+        Cluster, is a giant pile-up of four smaller galaxy clusters. The cluster is
+        so massive that its powerful gravity bends the light from galaxies far behind
+        it, making the background objects appear larger and brighter in a phenomenon
+        called gravitational lensing. Shown in this Hubble image, the mammoth Abell
+        2744 cluster is located about 3.5 billion light-years away.\r\n\r\n","credits":"\u003ca
+        href=\"http://www.nasa.gov/\"\u003eNASA\u003c/a\u003e, \u003ca href=\"http://www.spacetelescope.org/\"\u003eESA\u003c/a\u003e,
+        and J. Lotz, M. Mountain, A. Koekemoer, and the HFF Team (STScI)","news_name":"a","mission":"james_webb","collection":"news","image_files":[{"file_url":"https://media.stsci.edu/uploads/image_file/image_attachment/31306/STSCI-J-p1920a-z-896x1000.png","file_size":1528943,"width":896,"height":1000},{"file_url":"https://media.stsci.edu/uploads/image_file/image_attachment/31305/STSCI-J-p1920a-m-1793x2000.png","file_size":6636881,"width":1793,"height":2000},{"file_url":"https://media.stsci.edu/uploads/image_file/image_attachment/31304/STSCI-J-p1920a-f-3909x4360.png","file_size":31778769,"width":3909,"height":4360},{"file_url":"https://media.stsci.edu/uploads/image_file/image_attachment/31303/STSCI-J-p1920a-f-3909x4360.tif","file_size":41450432,"width":3909,"height":4360}]}'
+    http_version: 
+  recorded_at: Tue, 16 Apr 2019 22:01:26 GMT
+recorded_with: VCR 4.0.0
