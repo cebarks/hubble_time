@@ -21,7 +21,7 @@ ActiveRecord::Schema.define(version: 2019_04_16_202013) do
     t.string "name"
     t.string "description"
     t.string "credits"
-    t.string "image_url"
+    t.string "file_url"
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
   end

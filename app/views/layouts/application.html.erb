@@ -8,14 +8,18 @@
     <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track': 'reload' %>
     <%= javascript_include_tag 'application', 'data-turbolinks-track': 'reload' %>
   </head>
-
-  <div id="flashes">
-    <% flash.each do |type, message| %>
-    <%= content_tag :div, message, class: type %>
-    <% end %>
-  </div>
-
   <body>
+    <div id="flashes">
+      <% flash.each do |type, message| %>
+      <%= content_tag :div, message, class: type %>
+      <% end %>
+    </div>
+
+    <div id="nav">
+      <%= link_to "Show All", images_path %>
+      <%= link_to "Show Favorites Only", favorites_path %>
+    </div>
+
     <%= yield %>
   </body>
 </html>
