@@ -1,24 +1,44 @@
-# README
+# HubbleTime
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+HubbleTime is a Rails App that allows you to view and favorite images from the HubbleSite API.
 
-Things you may want to cover:
+Deployment URL: https://hubbletime.herokuapp.com/
+## Installation
 
-* Ruby version
+*HubbleTime was developed in Ruby 2.6
 
-* System dependencies
+First clone down the repository and `cd` into it
 
-* Configuration
+```bash
+git clone https://github.com/cebarks/hubble_time.git
+cd hubble_time
+```
 
-* Database creation
+Then don't forget to install all the dependencies with bundler:
 
-* Database initialization
+```bash
+bundle install
+```
 
-* How to run the test suite
+## Usage 
 
-* Services (job queues, cache servers, search engines, etc.)
+To run the server locally:
+```bash
+rails server
+```
 
-* Deployment instructions
+You can also access the deployed version [here](https://hubbletime.herokuapp.com/).
 
-* ...
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+Please make sure to update tests as appropriate.
+
+## Tech Stack
+- Ruby
+- Rails
+- Capybara
+- PostgreSQL
+- RSpec
+- VCR
+- Faraday
