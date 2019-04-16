@@ -1,12 +1,22 @@
 <div id="images">
   <% @images.each do |image| %>
-    <div class="image" id="image-<%= image.id %>">
-      <div class="picture"><img src="<%= image.image_files.first[:file_url] %>" alt="<%= image.name %>"></div>
-      <div class="title"><%= image.name %></div>
-      <div class="description"><%= "#{image.description}".html_safe %></div>
-      <div class="credits"><%= image.credits.html_safe %></d
-        iv>
-      <%= button_to "Favorite", nil, class: "favorite-button" %>
+  <div class="image" id="image-<%= image.id %>">
+    <div class="picture">
+      <img src="<%= image.image_files.first[:file_url] %>" alt="<%= image.name %>">
     </div>
+
+    <div class="title">
+      <%= image.name %>
+    </div>
+
+    <div class="description">
+      <%= image.description.html_safe if image.description  %>
+    </div>
+
+    <div class="credits">
+      <%= image.credits.html_safe %>
+    </div>
+    <%= button_to "Favorite", favorites_path(user_id: current_user.id, hubble_id: image.id, name: image.name, description: image.description, credits: image.credits, image_url: image.image_files.first[:file_url]), class: "favorite-button" unless current_user.favorites.map(&:hubble_id).include?(image.id)%>
+  </div>
   <% end %>
 </div>
