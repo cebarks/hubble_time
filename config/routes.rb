@@ -3,5 +3,6 @@ Rails.application.routes.draw do
 
   root 'welcome#index'
 
-  resources :images, only: :index
+  resources :images, only: [:index]
+  resources :favorites, only: [:create, :index]
 end
