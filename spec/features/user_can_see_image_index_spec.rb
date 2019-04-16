@@ -3,11 +3,13 @@ require 'rails_helper'
 RSpec.describe 'As a user' do
   describe 'When I visit /images' do
     before(:each) do
-      visit '/images'
+      User.create!(email:"user@email.com")
+      visit images_path
     end
 
     it "Then by default I see a list of images taken from the hubble api.", :vcr do
       expect(page).to have_css('#images')
+
       within "#images" do
         within first ".image" do
           expect(page).to have_css('.title')
